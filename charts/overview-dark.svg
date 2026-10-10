@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="992" viewBox="0 0 800 992" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect x="0.5" y="0.5" width="799" height="991" rx="12" fill="#161b18" stroke="#2a312c"/>
+<text x="24" y="44" font-size="19" font-weight="700" fill="#ecebe6">What makers' products chose, decision by decision</text>
+<text x="24" y="66" font-size="13" fill="#9a978f">The most common pick and its share · 6,677 live products, every count sourced</text>
+<text x="24" y="104" font-size="11.5" font-weight="700" letter-spacing="1.2" fill="#9a978f">FOUNDATION</text>
+<text x="24" y="134" font-size="14" fill="#ecebe6">Frontend Framework</text>
+<text x="239" y="134" font-size="14" font-weight="700" fill="#ecebe6">Next.js</text>
+<rect x="404" y="122" width="316" height="14" rx="4" fill="#252b27"/>
+<rect x="404" y="122" width="240" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="134" font-size="13.5" text-anchor="end" fill="#ecebe6">76%</text>
+<text x="24" y="164" font-size="14" fill="#ecebe6">Backend Framework</text>
+<text x="239" y="164" font-size="14" font-weight="700" fill="#ecebe6">Laravel</text>
+<rect x="404" y="152" width="316" height="14" rx="4" fill="#252b27"/>
+<rect x="404" y="152" width="105" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="164" font-size="13.5" text-anchor="end" fill="#ecebe6">33%</text>
+<text x="24" y="194" font-size="14" fill="#ecebe6">Database</text>
+<text x="239" y="194" font-size="14" font-weight="700" fill="#ecebe6">Supabase</text>
+<rect x="404" y="182" width="316" height="14" rx="4" fill="#252b27"/>
+<rect x="404" y="182" width="143" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="194" font-size="13.5" text-anchor="end" fill="#ecebe6">45%</text>
+<text x="24" y="224" font-size="14" fill="#ecebe6">Database Access &amp; ORMs</text>
+<text x="239" y="224" font-size="14" font-weight="700" fill="#ecebe6">Prisma</text>
+<rect x="404" y="212" width="316" height="14" rx="4" fill="#252b27"/>
+<rect x="404" y="212" width="239" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="224" font-size="13.5" text-anchor="end" fill="#ecebe6">76%</text>
+<text x="24" y="254" font-size="14" fill="#ecebe6">Authentication</text>
+<text x="239" y="254" font-size="14" font-weight="700" fill="#ecebe6">Clerk</text>
+<rect x="404" y="242" width="316" height="14" rx="4" fill="#252b27"/>
+<rect x="404" y="242" width="251" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="254" font-size="13.5" text-anchor="end" fill="#ecebe6">80%</text>
+<text x="24" y="284" font-size="14" fill="#ecebe6">File Storage</text>
+<text x="239" y="284" font-size="14" font-weight="700" fill="#ecebe6">Cloudflare R2</text>
+<rect x="404" y="272" width="316" height="14" rx="4" fill="#252b27"/>
+<rect x="404" y="272" width="126" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="284" font-size="13.5" text-anchor="end" fill="#ecebe6">40%</text>
+<text x="24" y="314" font-size="14" fill="#ecebe6">Background Jobs &amp; Cron</text>
+<text x="239" y="314" font-size="14" font-weight="700" fill="#ecebe6">Temporal</text>
+<rect x="404" y="302" width="316" height="14" rx="4" fill="#252b27"/>
+<rect x="404" y="302" width="138" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="314" font-size="13.5" text-anchor="end" fill="#ecebe6">44%</text>
+<text x="24" y="344" font-size="14" fill="#ecebe6">Transactional Email</text>
+<text x="239" y="344" font-size="14" font-weight="700" fill="#ecebe6">SendGrid</text>
+<rect x="404" y="332" width="316" height="14" rx="4" fill="#252b27"/>
+<rect x="404" y="332" width="147" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="344" font-size="13.5" text-anchor="end" fill="#ecebe6">46%</text>
+<text x="24" y="378" font-size="11.5" font-weight="700" letter-spacing="1.2" fill="#9a978f">MONEY</text>
+<text x="24" y="408" font-size="14" fill="#ecebe6">Payments</text>
+<text x="239" y="408" font-size="14" font-weight="700" fill="#ecebe6">Stripe</text>
+<rect x="404" y="396" width="316" height="14" rx="4" fill="#252b27"/>
+<rect x="404" y="396" width="241" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="408" font-size="13.5" text-anchor="end" fill="#ecebe6">76%</text>
+<text x="24" y="442" font-size="11.5" font-weight="700" letter-spacing="1.2" fill="#9a978f">AI IN THE PRODUCT</text>
+<text x="24" y="472" font-size="14" fill="#ecebe6">LLM API</text>
+<text x="239" y="472" font-size="14" font-weight="700" fill="#ecebe6">OpenAI API</text>
+<rect x="404" y="460" width="316" height="14" rx="4" fill="#252b27"/>
+<rect x="404" y="460" width="234" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="472" font-size="13.5" text-anchor="end" fill="#ecebe6">74%</text>
+<text x="24" y="502" font-size="14" fill="#ecebe6">AI SDK &amp; Agent Framework</text>
+<text x="239" y="502" font-size="14" font-weight="700" fill="#ecebe6">LangChain</text>
+<rect x="404" y="490" width="316" height="14" rx="4" fill="#252b27"/>
+<rect x="404" y="490" width="179" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="502" font-size="13.5" text-anchor="end" fill="#ecebe6">57%</text>
+<text x="24" y="532" font-size="14" fill="#ecebe6">Vector Database</text>
+<text x="239" y="532" font-size="14" font-weight="700" fill="#ecebe6">Pinecone</text>
+<rect x="404" y="520" width="316" height="14" rx="4" fill="#252b27"/>
+<rect x="404" y="520" width="157" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="532" font-size="13.5" text-anchor="end" fill="#ecebe6">50%</text>
+<text x="24" y="562" font-size="14" fill="#ecebe6">LLM Observability &amp; Evals</text>
+<text x="239" y="562" font-size="14" font-weight="700" fill="#ecebe6">Langfuse</text>
+<rect x="404" y="550" width="316" height="14" rx="4" fill="#252b27"/>
+<rect x="404" y="550" width="165" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="562" font-size="13.5" text-anchor="end" fill="#ecebe6">52%</text>
+<text x="24" y="596" font-size="11.5" font-weight="700" letter-spacing="1.2" fill="#9a978f">SHIPPING</text>
+<text x="24" y="626" font-size="14" fill="#ecebe6">Hosting</text>
+<text x="239" y="626" font-size="14" font-weight="700" fill="#ecebe6">Vercel</text>
+<rect x="404" y="614" width="316" height="14" rx="4" fill="#252b27"/>
+<rect x="404" y="614" width="182" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="626" font-size="13.5" text-anchor="end" fill="#ecebe6">58%</text>
+<text x="24" y="656" font-size="14" fill="#ecebe6">Image &amp; Video Hosting</text>
+<text x="239" y="656" font-size="14" font-weight="700" fill="#ecebe6">Cloudinary</text>
+<rect x="404" y="644" width="316" height="14" rx="4" fill="#252b27"/>
+<rect x="404" y="644" width="165" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="656" font-size="13.5" text-anchor="end" fill="#ecebe6">52%</text>
+<text x="24" y="686" font-size="14" fill="#ecebe6">Error Monitoring</text>
+<text x="239" y="686" font-size="14" font-weight="700" fill="#ecebe6">Sentry</text>
+<rect x="404" y="674" width="316" height="14" rx="4" fill="#252b27"/>
+<rect x="404" y="674" width="303" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="686" font-size="13.5" text-anchor="end" fill="#ecebe6">96%</text>
+<text x="24" y="720" font-size="11.5" font-weight="700" letter-spacing="1.2" fill="#9a978f">GROWTH</text>
+<text x="24" y="750" font-size="14" fill="#ecebe6">Web Analytics</text>
+<text x="239" y="750" font-size="14" font-weight="700" fill="#ecebe6">Google Analytics</text>
+<rect x="404" y="738" width="316" height="14" rx="4" fill="#252b27"/>
+<rect x="404" y="738" width="145" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="750" font-size="13.5" text-anchor="end" fill="#ecebe6">46%</text>
+<text x="24" y="780" font-size="14" fill="#ecebe6">Product Analytics</text>
+<text x="239" y="780" font-size="14" font-weight="700" fill="#ecebe6">PostHog</text>
+<rect x="404" y="768" width="316" height="14" rx="4" fill="#252b27"/>
+<rect x="404" y="768" width="204" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="780" font-size="13.5" text-anchor="end" fill="#ecebe6">65%</text>
+<text x="24" y="810" font-size="14" fill="#ecebe6">Newsletter</text>
+<text x="239" y="810" font-size="14" font-weight="700" fill="#ecebe6">Kit</text>
+<rect x="404" y="798" width="316" height="14" rx="4" fill="#252b27"/>
+<rect x="404" y="798" width="149" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="810" font-size="13.5" text-anchor="end" fill="#ecebe6">47%</text>
+<text x="24" y="840" font-size="14" fill="#ecebe6">Lifecycle Email</text>
+<text x="239" y="840" font-size="14" font-weight="700" fill="#ecebe6">Loops</text>
+<rect x="404" y="828" width="316" height="14" rx="4" fill="#252b27"/>
+<rect x="404" y="828" width="254" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="840" font-size="13.5" text-anchor="end" fill="#ecebe6">80%</text>
+<text x="24" y="874" font-size="11.5" font-weight="700" letter-spacing="1.2" fill="#9a978f">BUILDING WITH AI</text>
+<text x="24" y="904" font-size="14" fill="#ecebe6">AI Coding Assistants</text>
+<text x="239" y="904" font-size="14" font-weight="700" fill="#ecebe6">Claude Code</text>
+<rect x="404" y="892" width="316" height="14" rx="4" fill="#252b27"/>
+<rect x="404" y="892" width="166" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="904" font-size="13.5" text-anchor="end" fill="#ecebe6">52%</text>
+<text x="24" y="934" font-size="14" fill="#ecebe6">AI App Builders</text>
+<text x="239" y="934" font-size="14" font-weight="700" fill="#ecebe6">Lovable</text>
+<rect x="404" y="922" width="316" height="14" rx="4" fill="#252b27"/>
+<rect x="404" y="922" width="94" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="934" font-size="13.5" text-anchor="end" fill="#ecebe6">30%</text>
+<text x="24" y="974" font-size="12" fill="#9a978f">howmakersbuild.com · bars are % of the products where that decision is sourced</text>
+</svg>
