@@ -418,9 +418,9 @@ See what signed-in users do inside the product — which steps they finish, wher
 
 | Tool | Used by | Best for | More |
 |---|---|---|---|
-| [PostHog](https://howmakersbuild.com/tools/posthog) · open source | 337 (65%) | One tool for analytics, session replay, feature flags, experiments and surveys, each with its own free monthly allowance. | [pricing](https://howmakersbuild.com/tools/posthog/pricing) |
-| [Mixpanel](https://howmakersbuild.com/tools/mixpanel) | 109 (21%) | Mature funnel, retention and cohort analysis on event data. | [pricing](https://howmakersbuild.com/tools/mixpanel/pricing) |
-| [Amplitude](https://howmakersbuild.com/tools/amplitude) | 86 (17%) | Funnel, retention and cohort analysis, with session replay and experiments on every plan, including free. | [pricing](https://howmakersbuild.com/tools/amplitude/pricing) |
+| [PostHog](https://howmakersbuild.com/tools/posthog) · open source | 337 (65%) | One tool for analytics, session replay, feature flags, experiments and surveys, each with its own free monthly allowance. | [vs Amplitude](https://howmakersbuild.com/compare/amplitude-vs-posthog) · [pricing](https://howmakersbuild.com/tools/posthog/pricing) |
+| [Mixpanel](https://howmakersbuild.com/tools/mixpanel) | 109 (21%) | Mature funnel, retention and cohort analysis on event data. | [vs PostHog](https://howmakersbuild.com/compare/mixpanel-vs-posthog) · [pricing](https://howmakersbuild.com/tools/mixpanel/pricing) |
+| [Amplitude](https://howmakersbuild.com/tools/amplitude) | 86 (17%) | Funnel, retention and cohort analysis, with session replay and experiments on every plan, including free. | [vs PostHog](https://howmakersbuild.com/compare/amplitude-vs-posthog) · [pricing](https://howmakersbuild.com/tools/amplitude/pricing) |
 
 </details>
 
@@ -500,7 +500,7 @@ Describe your app in a chat and get a working, clickable version in minutes — 
 | [Bubble](https://howmakersbuild.com/tools/bubble) | 38 (15%) | Building a full web or native mobile app visually — pages, database, workflows and hosting in one place. |  |
 | [Replit](https://howmakersbuild.com/tools/replit) | 34 (14%) | Building with an AI agent in a full cloud IDE, in many languages, with hosting included. | [vs Lovable](https://howmakersbuild.com/compare/lovable-vs-replit) |
 | [Softr](https://howmakersbuild.com/tools/softr) | 26 (11%) | Client portals, internal tools and simple CRMs built visually on top of data you already keep in Airtable, Google Sheets, Notion or a database. |  |
-| [Bolt](https://howmakersbuild.com/tools/bolt-new) | 24 (10%) | Generating and running a full-stack app entirely in the browser, with the code visible and editable as it is written. |  |
+| [Bolt](https://howmakersbuild.com/tools/bolt-new) | 24 (10%) | Generating and running a full-stack app entirely in the browser, with the code visible and editable as it is written. | [vs Lovable](https://howmakersbuild.com/compare/bolt-new-vs-lovable) |
 | [FlutterFlow](https://howmakersbuild.com/tools/flutterflow) | 13 (5%) | Visually building mobile apps that compile to real Flutter code and deploy to the app stores. |  |
 | [Base44](https://howmakersbuild.com/tools/base44) | 8 (3%) | Full-stack web apps and internal tools from chat, with database, auth and hosting built into the platform, so there is no outside backend account to set up. | [vs Replit](https://howmakersbuild.com/compare/base44-vs-replit) · [pricing](https://howmakersbuild.com/tools/base44/pricing) |
 | [Rork](https://howmakersbuild.com/tools/rork) | 2 (1%) | Native mobile apps from chat — SwiftUI for iPhone, Kotlin for Android — with a hosted backend, RevenueCat subscriptions and built-in publishing to the App Store and Google Play. |  |
