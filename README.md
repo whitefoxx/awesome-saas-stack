@@ -1,8 +1,8 @@
 # Awesome SaaS Stack
 
-The tools behind 6,677 live SaaS and AI products, ranked by how many of them actually use each one — not by who wrote the loudest blog post.
+The tools behind 6,683 live SaaS and AI products, ranked by how many of them actually use each one — not by who wrote the loudest blog post.
 
-Every count comes from a source you can open: the maker's own words, the product's website, DNS records, subprocessor lists, customer stories and job postings (18,577 sourced usages in all). Follow a tool's link to see which products use it and why. Generated from [How Makers Build](https://howmakersbuild.com), refreshed weekly — last 2026-10-10.
+Every count comes from a source you can open: the maker's own words, the product's website, DNS records, subprocessor lists, customer stories and job postings (18,611 sourced usages in all). Follow a tool's link to see which products use it and why. Generated from [How Makers Build](https://howmakersbuild.com), refreshed weekly — last 2026-10-20.
 
 <a href="https://howmakersbuild.com"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/overview-dark.svg"><img alt="The most common pick per decision. Frontend Framework: Next.js; Backend Framework: Laravel; Database: Supabase; Database Access &amp; ORMs: Prisma; Authentication: Clerk; File Storage: Cloudflare R2; Background Jobs &amp; Cron: Temporal; Transactional Email: SendGrid; Payments: Stripe; LLM API: OpenAI API; AI SDK &amp; Agent Framework: LangChain; Vector Database: Pinecone; LLM Observability &amp; Evals: Langfuse; Hosting: Vercel; Image &amp; Video Hosting: Cloudinary; Error Monitoring: Sentry; Web Analytics: Google Analytics; Product Analytics: PostHog; Newsletter: Kit; Lifecycle Email: Loops; AI Coding Assistants: Claude Code; AI App Builders: Lovable" src="charts/overview-light.svg" width="800"></picture></a>
 
@@ -91,7 +91,7 @@ Pick the framework that serves your API or server-rendered app, when your fronte
 
 ### Database
 
-Store your app's data somewhere reliable, and talk to it from code. What 1,240 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/database).
+Store your app's data somewhere reliable, and talk to it from code. What 1,243 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/database).
 
 <a href="https://howmakersbuild.com/tasks/database"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/database-dark.svg"><img alt="Database: Supabase 45%, Firebase 15%, MongoDB 10%, PostgreSQL 8%, Neon 8%, Convex 4%" src="charts/database-light.svg" width="800"></picture></a>
 
@@ -100,7 +100,7 @@ Store your app's data somewhere reliable, and talk to it from code. What 1,240 m
 | Tool | Used by | Best for | More |
 |---|---|---|---|
 | [Supabase](https://howmakersbuild.com/tools/supabase) · open source | 560 (45%) | Postgres plus auth, storage and realtime in one project. | [vs Firebase](https://howmakersbuild.com/compare/firebase-vs-supabase) · [pricing](https://howmakersbuild.com/tools/supabase/pricing) |
-| [Firebase](https://howmakersbuild.com/tools/firebase) | 180 (15%) | Mobile apps that need offline sync and client-side SDKs. | [vs Supabase](https://howmakersbuild.com/compare/firebase-vs-supabase) · [pricing](https://howmakersbuild.com/tools/firebase/pricing) |
+| [Firebase](https://howmakersbuild.com/tools/firebase) | 183 (15%) | Mobile apps that need offline sync and client-side SDKs. | [vs Supabase](https://howmakersbuild.com/compare/firebase-vs-supabase) · [pricing](https://howmakersbuild.com/tools/firebase/pricing) |
 | [MongoDB](https://howmakersbuild.com/tools/mongodb) | 127 (10%) | Document-shaped data and teams already fluent in Mongo. | [vs PostgreSQL](https://howmakersbuild.com/compare/mongodb-vs-postgresql) · [pricing](https://howmakersbuild.com/tools/mongodb/pricing) |
 | [PostgreSQL](https://howmakersbuild.com/tools/postgresql) · open source | 98 (8%) | The engine behind most of the hosted options above, run on your own server or container for full control and a flat cost. | [vs MongoDB](https://howmakersbuild.com/compare/mongodb-vs-postgresql) |
 | [Neon](https://howmakersbuild.com/tools/neon) · open source | 95 (8%) | Serverless Postgres that scales to zero, with a branch per preview deploy. | [vs Supabase](https://howmakersbuild.com/compare/neon-vs-supabase) · [pricing](https://howmakersbuild.com/tools/neon/pricing) |
@@ -329,19 +329,19 @@ Where it runs, and knowing when it breaks.
 
 ### Hosting
 
-Get your app onto the internet with a URL, HTTPS and deploys from git. What 3,481 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/hosting).
+Get your app onto the internet with a URL, HTTPS and deploys from git. What 3,503 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/hosting).
 
-<a href="https://howmakersbuild.com/tasks/hosting"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/hosting-dark.svg"><img alt="Hosting: Vercel 58%, Amazon Web Services 12%, Cloudflare 11%, Netlify 8%, Google Cloud Platform 5%, DigitalOcean 4%" src="charts/hosting-light.svg" width="800"></picture></a>
+<a href="https://howmakersbuild.com/tasks/hosting"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/hosting-dark.svg"><img alt="Hosting: Vercel 57%, Amazon Web Services 13%, Cloudflare 11%, Netlify 8%, Google Cloud Platform 5%, DigitalOcean 4%" src="charts/hosting-light.svg" width="800"></picture></a>
 
 <details><summary>All 10 with what each is best for, comparisons and pricing</summary>
 
 | Tool | Used by | Best for | More |
 |---|---|---|---|
-| [Vercel](https://howmakersbuild.com/tools/vercel) | 2,006 (58%) | Next.js apps — zero-config deploys and preview URLs. | [vs Netlify](https://howmakersbuild.com/compare/netlify-vs-vercel) · [pricing](https://howmakersbuild.com/tools/vercel/pricing) |
-| [Amazon Web Services](https://howmakersbuild.com/tools/aws) | 423 (12%) | The widest catalog of building blocks — Lambda, containers, managed databases, queues — to assemble your own infrastructure. | [vs Microsoft Azure](https://howmakersbuild.com/compare/aws-vs-microsoft-azure) · [pricing](https://howmakersbuild.com/tools/aws/pricing) |
+| [Vercel](https://howmakersbuild.com/tools/vercel) | 2,006 (57%) | Next.js apps — zero-config deploys and preview URLs. | [vs Netlify](https://howmakersbuild.com/compare/netlify-vs-vercel) · [pricing](https://howmakersbuild.com/tools/vercel/pricing) |
+| [Amazon Web Services](https://howmakersbuild.com/tools/aws) | 451 (13%) | The widest catalog of building blocks — Lambda, containers, managed databases, queues — to assemble your own infrastructure. | [vs Microsoft Azure](https://howmakersbuild.com/compare/aws-vs-microsoft-azure) · [pricing](https://howmakersbuild.com/tools/aws/pricing) |
 | [Cloudflare](https://howmakersbuild.com/tools/cloudflare) | 372 (11%) | Cheap global hosting with Workers, plus database (D1) and storage (R2) on the same platform. | [vs Vercel](https://howmakersbuild.com/compare/cloudflare-vs-vercel) · [pricing](https://howmakersbuild.com/tools/cloudflare/pricing) |
 | [Netlify](https://howmakersbuild.com/tools/netlify) | 265 (8%) | Static sites and JAMstack apps on any framework. | [vs Vercel](https://howmakersbuild.com/compare/netlify-vs-vercel) · [pricing](https://howmakersbuild.com/tools/netlify/pricing) |
-| [Google Cloud Platform](https://howmakersbuild.com/tools/google-cloud) | 173 (5%) | Containers on Cloud Run that scale to zero, next to BigQuery, Firebase and Google's AI services. | [vs Amazon Web Services](https://howmakersbuild.com/compare/aws-vs-google-cloud) |
+| [Google Cloud Platform](https://howmakersbuild.com/tools/google-cloud) | 174 (5%) | Containers on Cloud Run that scale to zero, next to BigQuery, Firebase and Google's AI services. | [vs Amazon Web Services](https://howmakersbuild.com/compare/aws-vs-google-cloud) |
 | [DigitalOcean](https://howmakersbuild.com/tools/digitalocean) | 148 (4%) | App Platform deploys from git next to DigitalOcean's managed databases, storage and droplets. | [vs Amazon Web Services](https://howmakersbuild.com/compare/aws-vs-digitalocean) |
 | [Render](https://howmakersbuild.com/tools/render) | 137 (4%) | A Heroku-style platform for web services, cron jobs and Postgres. | [vs Railway](https://howmakersbuild.com/compare/railway-vs-render) · [pricing](https://howmakersbuild.com/tools/render/pricing) |
 | [GitHub Pages](https://howmakersbuild.com/tools/github-pages) | 128 (4%) | Free hosting for static sites, docs and landing pages published straight from a repo. | [vs Netlify](https://howmakersbuild.com/compare/github-pages-vs-netlify) |
