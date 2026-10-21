@@ -2,27 +2,27 @@
 <rect x="0.5" y="0.5" width="799" height="251" rx="12" fill="#161b18" stroke="#2a312c"/>
 <text x="24" y="44" font-size="14" fill="#ecebe6">Vercel</text>
 <rect x="244" y="32" width="422" height="14" rx="4" fill="#252b27"/>
-<rect x="244" y="32" width="241" height="14" rx="4" fill="#6fbf93"/>
-<text x="776" y="44" font-size="13.5" text-anchor="end" fill="#ecebe6">2,007 · 57%</text>
+<rect x="244" y="32" width="239" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="44" font-size="13.5" text-anchor="end" fill="#ecebe6">2,014 · 57%</text>
 <text x="24" y="74" font-size="14" fill="#ecebe6">Amazon Web Services</text>
 <rect x="244" y="62" width="422" height="14" rx="4" fill="#252b27"/>
-<rect x="244" y="62" width="54" height="14" rx="4" fill="#3f6b54"/>
-<text x="776" y="74" font-size="13.5" text-anchor="end" fill="#ecebe6">452 · 13%</text>
+<rect x="244" y="62" width="55" height="14" rx="4" fill="#3f6b54"/>
+<text x="776" y="74" font-size="13.5" text-anchor="end" fill="#ecebe6">460 · 13%</text>
 <text x="24" y="104" font-size="14" fill="#ecebe6">Cloudflare</text>
 <rect x="244" y="92" width="422" height="14" rx="4" fill="#252b27"/>
-<rect x="244" y="92" width="45" height="14" rx="4" fill="#3f6b54"/>
-<text x="776" y="104" font-size="13.5" text-anchor="end" fill="#ecebe6">374 · 11%</text>
+<rect x="244" y="92" width="46" height="14" rx="4" fill="#3f6b54"/>
+<text x="776" y="104" font-size="13.5" text-anchor="end" fill="#ecebe6">385 · 11%</text>
 <text x="24" y="134" font-size="14" fill="#ecebe6">Netlify</text>
 <rect x="244" y="122" width="422" height="14" rx="4" fill="#252b27"/>
 <rect x="244" y="122" width="32" height="14" rx="4" fill="#3f6b54"/>
-<text x="776" y="134" font-size="13.5" text-anchor="end" fill="#ecebe6">265 · 8%</text>
+<text x="776" y="134" font-size="13.5" text-anchor="end" fill="#ecebe6">265 · 7%</text>
 <text x="24" y="164" font-size="14" fill="#ecebe6">Google Cloud Platform</text>
 <rect x="244" y="152" width="422" height="14" rx="4" fill="#252b27"/>
-<rect x="244" y="152" width="21" height="14" rx="4" fill="#3f6b54"/>
-<text x="776" y="164" font-size="13.5" text-anchor="end" fill="#ecebe6">176 · 5%</text>
+<rect x="244" y="152" width="22" height="14" rx="4" fill="#3f6b54"/>
+<text x="776" y="164" font-size="13.5" text-anchor="end" fill="#ecebe6">187 · 5%</text>
 <text x="24" y="194" font-size="14" fill="#ecebe6">DigitalOcean</text>
 <rect x="244" y="182" width="422" height="14" rx="4" fill="#252b27"/>
 <rect x="244" y="182" width="18" height="14" rx="4" fill="#3f6b54"/>
-<text x="776" y="194" font-size="13.5" text-anchor="end" fill="#ecebe6">148 · 4%</text>
-<text x="24" y="234" font-size="12" fill="#9a978f">Share of the 3,508 makers' products where this choice is sourced · howmakersbuild.com</text>
+<text x="776" y="194" font-size="13.5" text-anchor="end" fill="#ecebe6">150 · 4%</text>
+<text x="24" y="234" font-size="12" fill="#9a978f">Share of the 3,549 makers' products where this choice is sourced · howmakersbuild.com</text>
 </svg>

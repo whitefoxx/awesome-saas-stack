@@ -3,7 +3,7 @@
 <text x="24" y="44" font-size="14" fill="#ecebe6">Sentry</text>
 <rect x="244" y="32" width="422" height="14" rx="4" fill="#252b27"/>
 <rect x="244" y="32" width="404" height="14" rx="4" fill="#6fbf93"/>
-<text x="776" y="44" font-size="13.5" text-anchor="end" fill="#ecebe6">182 · 96%</text>
+<text x="776" y="44" font-size="13.5" text-anchor="end" fill="#ecebe6">183 · 96%</text>
 <text x="24" y="74" font-size="14" fill="#ecebe6">Rollbar</text>
 <rect x="244" y="62" width="422" height="14" rx="4" fill="#252b27"/>
 <rect x="244" y="62" width="13" height="14" rx="4" fill="#3f6b54"/>
@@ -20,5 +20,5 @@
 <rect x="244" y="152" width="422" height="14" rx="4" fill="#252b27"/>
 <rect x="244" y="152" width="3" height="14" rx="4" fill="#3f6b54"/>
 <text x="776" y="164" font-size="13.5" text-anchor="end" fill="#ecebe6">1 · 1%</text>
-<text x="24" y="204" font-size="12" fill="#9a978f">Share of the 190 makers' products where this choice is sourced · howmakersbuild.com</text>
+<text x="24" y="204" font-size="12" fill="#9a978f">Share of the 191 makers' products where this choice is sourced · howmakersbuild.com</text>
 </svg>

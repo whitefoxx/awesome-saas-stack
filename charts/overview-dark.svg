@@ -1,43 +1,43 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="1892" viewBox="0 0 800 1892" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
 <rect x="0.5" y="0.5" width="799" height="1891" rx="12" fill="#161b18" stroke="#2a312c"/>
 <text x="24" y="44" font-size="19" font-weight="700" fill="#ecebe6">What makers' products chose, decision by decision</text>
-<text x="24" y="66" font-size="13" fill="#9a978f">The most common pick and its share · 7,122 live products, every count sourced</text>
+<text x="24" y="66" font-size="13" fill="#9a978f">The most common pick and its share · 7,302 live products, every count sourced</text>
 <text x="24" y="104" font-size="11.5" font-weight="700" letter-spacing="1.2" fill="#9a978f">VIBE CODING</text>
 <text x="24" y="134" font-size="14" fill="#ecebe6">AI Coding Agents</text>
 <text x="239" y="134" font-size="14" font-weight="700" fill="#ecebe6">Claude Code</text>
 <rect x="404" y="122" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="122" width="295" height="14" rx="4" fill="#6fbf93"/>
-<text x="776" y="134" font-size="13.5" text-anchor="end" fill="#ecebe6">93%</text>
+<rect x="404" y="122" width="268" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="134" font-size="13.5" text-anchor="end" fill="#ecebe6">85%</text>
 <text x="24" y="164" font-size="14" fill="#ecebe6">AI Code Editors</text>
 <text x="239" y="164" font-size="14" font-weight="700" fill="#ecebe6">Cursor</text>
 <rect x="404" y="152" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="152" width="269" height="14" rx="4" fill="#6fbf93"/>
+<rect x="404" y="152" width="267" height="14" rx="4" fill="#6fbf93"/>
 <text x="776" y="164" font-size="13.5" text-anchor="end" fill="#ecebe6">85%</text>
 <text x="24" y="194" font-size="14" fill="#ecebe6">AI App Builders</text>
 <text x="239" y="194" font-size="14" font-weight="700" fill="#ecebe6">Lovable</text>
 <rect x="404" y="182" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="182" width="111" height="14" rx="4" fill="#6fbf93"/>
-<text x="776" y="194" font-size="13.5" text-anchor="end" fill="#ecebe6">35%</text>
+<rect x="404" y="182" width="94" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="194" font-size="13.5" text-anchor="end" fill="#ecebe6">30%</text>
 <text x="24" y="224" font-size="14" fill="#ecebe6">AI UI Design</text>
 <text x="239" y="224" font-size="14" font-weight="700" fill="#ecebe6">shadcn/ui</text>
 <rect x="404" y="212" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="212" width="308" height="14" rx="4" fill="#6fbf93"/>
-<text x="776" y="224" font-size="13.5" text-anchor="end" fill="#ecebe6">97%</text>
+<rect x="404" y="212" width="301" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="224" font-size="13.5" text-anchor="end" fill="#ecebe6">95%</text>
 <text x="24" y="254" font-size="14" fill="#ecebe6">Parallel Agents &amp; Spec-Driv…</text>
 <text x="239" y="254" font-size="14" font-weight="700" fill="#ecebe6">Conductor</text>
 <rect x="404" y="242" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="242" width="234" height="14" rx="4" fill="#6fbf93"/>
-<text x="776" y="254" font-size="13.5" text-anchor="end" fill="#ecebe6">74%</text>
+<rect x="404" y="242" width="227" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="254" font-size="13.5" text-anchor="end" fill="#ecebe6">72%</text>
 <text x="24" y="284" font-size="14" fill="#ecebe6">Voice Dictation</text>
 <text x="239" y="284" font-size="14" font-weight="700" fill="#ecebe6">Wispr Flow</text>
 <rect x="404" y="272" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="272" width="297" height="14" rx="4" fill="#6fbf93"/>
-<text x="776" y="284" font-size="13.5" text-anchor="end" fill="#ecebe6">94%</text>
+<rect x="404" y="272" width="289" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="284" font-size="13.5" text-anchor="end" fill="#ecebe6">91%</text>
 <text x="24" y="314" font-size="14" fill="#ecebe6">AI Code Review</text>
 <text x="239" y="314" font-size="14" font-weight="700" fill="#ecebe6">Graphite</text>
 <rect x="404" y="302" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="302" width="124" height="14" rx="4" fill="#6fbf93"/>
-<text x="776" y="314" font-size="13.5" text-anchor="end" fill="#ecebe6">39%</text>
+<rect x="404" y="302" width="121" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="314" font-size="13.5" text-anchor="end" fill="#ecebe6">38%</text>
 <text x="24" y="344" font-size="14" fill="#ecebe6">AI Testing</text>
 <text x="239" y="344" font-size="14" font-weight="700" fill="#ecebe6">Meticulous</text>
 <rect x="404" y="332" width="316" height="14" rx="4" fill="#252b27"/>
@@ -46,25 +46,25 @@
 <text x="24" y="374" font-size="14" fill="#ecebe6">Code Editor &amp; Terminal</text>
 <text x="239" y="374" font-size="14" font-weight="700" fill="#ecebe6">Xcode</text>
 <rect x="404" y="362" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="362" width="157" height="14" rx="4" fill="#6fbf93"/>
+<rect x="404" y="362" width="158" height="14" rx="4" fill="#6fbf93"/>
 <text x="776" y="374" font-size="13.5" text-anchor="end" fill="#ecebe6">50%</text>
 <text x="24" y="408" font-size="11.5" font-weight="700" letter-spacing="1.2" fill="#9a978f">PERSONAL AGENTS</text>
 <text x="24" y="438" font-size="14" fill="#ecebe6">Personal AI Agents</text>
 <text x="239" y="438" font-size="14" font-weight="700" fill="#ecebe6">OpenClaw</text>
 <rect x="404" y="426" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="426" width="283" height="14" rx="4" fill="#6fbf93"/>
-<text x="776" y="438" font-size="13.5" text-anchor="end" fill="#ecebe6">90%</text>
+<rect x="404" y="426" width="281" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="438" font-size="13.5" text-anchor="end" fill="#ecebe6">89%</text>
 <text x="24" y="468" font-size="14" fill="#ecebe6">Hosting for Personal Agents</text>
-<text x="239" y="468" font-size="14" font-weight="700" fill="#ecebe6">Agent 37</text>
+<text x="239" y="468" font-size="14" font-weight="700" fill="#ecebe6">KiloClaw</text>
 <rect x="404" y="456" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="456" width="158" height="14" rx="4" fill="#6fbf93"/>
-<text x="776" y="468" font-size="13.5" text-anchor="end" fill="#ecebe6">50%</text>
+<rect x="404" y="456" width="211" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="468" font-size="13.5" text-anchor="end" fill="#ecebe6">67%</text>
 <text x="24" y="502" font-size="11.5" font-weight="700" letter-spacing="1.2" fill="#9a978f">AI MODELS AND MEDIA</text>
 <text x="24" y="532" font-size="14" fill="#ecebe6">LLM API</text>
 <text x="239" y="532" font-size="14" font-weight="700" fill="#ecebe6">OpenAI API</text>
 <rect x="404" y="520" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="520" width="264" height="14" rx="4" fill="#6fbf93"/>
-<text x="776" y="532" font-size="13.5" text-anchor="end" fill="#ecebe6">83%</text>
+<rect x="404" y="520" width="236" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="532" font-size="13.5" text-anchor="end" fill="#ecebe6">75%</text>
 <text x="24" y="562" font-size="14" fill="#ecebe6">LLM Gateway &amp; Routing</text>
 <text x="239" y="562" font-size="14" font-weight="700" fill="#ecebe6">Kong Gateway</text>
 <rect x="404" y="550" width="316" height="14" rx="4" fill="#252b27"/>
@@ -73,13 +73,13 @@
 <text x="24" y="592" font-size="14" fill="#ecebe6">Open Model Hosting &amp; GPUs</text>
 <text x="239" y="592" font-size="14" font-weight="700" fill="#ecebe6">Hugging Face</text>
 <rect x="404" y="580" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="580" width="194" height="14" rx="4" fill="#6fbf93"/>
-<text x="776" y="592" font-size="13.5" text-anchor="end" fill="#ecebe6">61%</text>
+<rect x="404" y="580" width="132" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="592" font-size="13.5" text-anchor="end" fill="#ecebe6">42%</text>
 <text x="24" y="622" font-size="14" fill="#ecebe6">Run Models Locally</text>
 <text x="239" y="622" font-size="14" font-weight="700" fill="#ecebe6">Ollama</text>
 <rect x="404" y="610" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="610" width="200" height="14" rx="4" fill="#6fbf93"/>
-<text x="776" y="622" font-size="13.5" text-anchor="end" fill="#ecebe6">63%</text>
+<rect x="404" y="610" width="202" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="622" font-size="13.5" text-anchor="end" fill="#ecebe6">64%</text>
 <text x="24" y="652" font-size="14" fill="#ecebe6">Embeddings</text>
 <text x="239" y="652" font-size="14" font-weight="700" fill="#ecebe6">Cohere</text>
 <rect x="404" y="640" width="316" height="14" rx="4" fill="#252b27"/>
@@ -88,18 +88,18 @@
 <text x="24" y="682" font-size="14" fill="#ecebe6">Speech-to-Text &amp; Text-to-Sp…</text>
 <text x="239" y="682" font-size="14" font-weight="700" fill="#ecebe6">ElevenLabs</text>
 <rect x="404" y="670" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="670" width="177" height="14" rx="4" fill="#6fbf93"/>
+<rect x="404" y="670" width="178" height="14" rx="4" fill="#6fbf93"/>
 <text x="776" y="682" font-size="13.5" text-anchor="end" fill="#ecebe6">56%</text>
 <text x="24" y="712" font-size="14" fill="#ecebe6">Voice Agents</text>
 <text x="239" y="712" font-size="14" font-weight="700" fill="#ecebe6">LiveKit</text>
 <rect x="404" y="700" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="700" width="158" height="14" rx="4" fill="#6fbf93"/>
-<text x="776" y="712" font-size="13.5" text-anchor="end" fill="#ecebe6">50%</text>
+<rect x="404" y="700" width="160" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="712" font-size="13.5" text-anchor="end" fill="#ecebe6">51%</text>
 <text x="24" y="742" font-size="14" fill="#ecebe6">Image &amp; Video Generation</text>
 <text x="239" y="742" font-size="14" font-weight="700" fill="#ecebe6">fal</text>
 <rect x="404" y="730" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="730" width="107" height="14" rx="4" fill="#6fbf93"/>
-<text x="776" y="742" font-size="13.5" text-anchor="end" fill="#ecebe6">34%</text>
+<rect x="404" y="730" width="89" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="742" font-size="13.5" text-anchor="end" fill="#ecebe6">28%</text>
 <text x="24" y="776" font-size="11.5" font-weight="700" letter-spacing="1.2" fill="#9a978f">AGENT BUILDING BLOCKS</text>
 <text x="24" y="806" font-size="14" fill="#ecebe6">AI SDK &amp; Agent Framework</text>
 <text x="239" y="806" font-size="14" font-weight="700" fill="#ecebe6">LangChain</text>
@@ -107,15 +107,15 @@
 <rect x="404" y="794" width="177" height="14" rx="4" fill="#6fbf93"/>
 <text x="776" y="806" font-size="13.5" text-anchor="end" fill="#ecebe6">56%</text>
 <text x="24" y="836" font-size="14" fill="#ecebe6">Agent Memory</text>
-<text x="239" y="836" font-size="14" font-weight="700" fill="#ecebe6">Mem0</text>
+<text x="239" y="836" font-size="14" font-weight="700" fill="#ecebe6">Letta</text>
 <rect x="404" y="824" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="824" width="126" height="14" rx="4" fill="#6fbf93"/>
-<text x="776" y="836" font-size="13.5" text-anchor="end" fill="#ecebe6">40%</text>
+<rect x="404" y="824" width="119" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="836" font-size="13.5" text-anchor="end" fill="#ecebe6">38%</text>
 <text x="24" y="866" font-size="14" fill="#ecebe6">LLM Observability &amp; Evals</text>
 <text x="239" y="866" font-size="14" font-weight="700" fill="#ecebe6">Datadog</text>
 <rect x="404" y="854" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="854" width="139" height="14" rx="4" fill="#6fbf93"/>
-<text x="776" y="866" font-size="13.5" text-anchor="end" fill="#ecebe6">44%</text>
+<rect x="404" y="854" width="135" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="866" font-size="13.5" text-anchor="end" fill="#ecebe6">43%</text>
 <text x="24" y="896" font-size="14" fill="#ecebe6">Vector Database</text>
 <text x="239" y="896" font-size="14" font-weight="700" fill="#ecebe6">Pinecone</text>
 <rect x="404" y="884" width="316" height="14" rx="4" fill="#252b27"/>
@@ -129,13 +129,13 @@
 <text x="24" y="956" font-size="14" fill="#ecebe6">Tool Integrations for Agents</text>
 <text x="239" y="956" font-size="14" font-weight="700" fill="#ecebe6">Composio</text>
 <rect x="404" y="944" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="944" width="226" height="14" rx="4" fill="#6fbf93"/>
-<text x="776" y="956" font-size="13.5" text-anchor="end" fill="#ecebe6">71%</text>
+<rect x="404" y="944" width="228" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="956" font-size="13.5" text-anchor="end" fill="#ecebe6">72%</text>
 <text x="24" y="986" font-size="14" fill="#ecebe6">Code Sandboxes for Agents</text>
 <text x="239" y="986" font-size="14" font-weight="700" fill="#ecebe6">Daytona</text>
 <rect x="404" y="974" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="974" width="290" height="14" rx="4" fill="#6fbf93"/>
-<text x="776" y="986" font-size="13.5" text-anchor="end" fill="#ecebe6">92%</text>
+<rect x="404" y="974" width="211" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="986" font-size="13.5" text-anchor="end" fill="#ecebe6">67%</text>
 <text x="24" y="1016" font-size="14" fill="#ecebe6">Browser Automation for Agen…</text>
 <text x="239" y="1016" font-size="14" font-weight="700" fill="#ecebe6">Browserbase</text>
 <rect x="404" y="1004" width="316" height="14" rx="4" fill="#252b27"/>
@@ -144,54 +144,54 @@
 <text x="24" y="1046" font-size="14" fill="#ecebe6">Search APIs for AI</text>
 <text x="239" y="1046" font-size="14" font-weight="700" fill="#ecebe6">Perplexity API</text>
 <rect x="404" y="1034" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="1034" width="174" height="14" rx="4" fill="#6fbf93"/>
-<text x="776" y="1046" font-size="13.5" text-anchor="end" fill="#ecebe6">55%</text>
+<rect x="404" y="1034" width="172" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="1046" font-size="13.5" text-anchor="end" fill="#ecebe6">54%</text>
 <text x="24" y="1076" font-size="14" fill="#ecebe6">Web Scraping for AI</text>
 <text x="239" y="1076" font-size="14" font-weight="700" fill="#ecebe6">Firecrawl</text>
 <rect x="404" y="1064" width="316" height="14" rx="4" fill="#252b27"/>
 <rect x="404" y="1064" width="144" height="14" rx="4" fill="#6fbf93"/>
 <text x="776" y="1076" font-size="13.5" text-anchor="end" fill="#ecebe6">46%</text>
 <text x="24" y="1106" font-size="14" fill="#ecebe6">No-Code AI Agent Builders</text>
-<text x="239" y="1106" font-size="14" font-weight="700" fill="#ecebe6">Flowise</text>
+<text x="239" y="1106" font-size="14" font-weight="700" fill="#ecebe6">Relevance AI</text>
 <rect x="404" y="1094" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="1094" width="158" height="14" rx="4" fill="#6fbf93"/>
-<text x="776" y="1106" font-size="13.5" text-anchor="end" fill="#ecebe6">50%</text>
+<rect x="404" y="1094" width="69" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="1106" font-size="13.5" text-anchor="end" fill="#ecebe6">22%</text>
 <text x="24" y="1136" font-size="14" fill="#ecebe6">AI Guardrails &amp; Security</text>
 <text x="239" y="1136" font-size="14" font-weight="700" fill="#ecebe6">Lakera</text>
 <rect x="404" y="1124" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="1124" width="316" height="14" rx="4" fill="#6fbf93"/>
-<text x="776" y="1136" font-size="13.5" text-anchor="end" fill="#ecebe6">100%</text>
+<rect x="404" y="1124" width="105" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="1136" font-size="13.5" text-anchor="end" fill="#ecebe6">33%</text>
 <text x="24" y="1166" font-size="14" fill="#ecebe6">Workflow Automation</text>
-<text x="239" y="1166" font-size="14" font-weight="700" fill="#ecebe6">Make</text>
+<text x="239" y="1166" font-size="14" font-weight="700" fill="#ecebe6">Zapier</text>
 <rect x="404" y="1154" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="1154" width="289" height="14" rx="4" fill="#6fbf93"/>
-<text x="776" y="1166" font-size="13.5" text-anchor="end" fill="#ecebe6">91%</text>
+<rect x="404" y="1154" width="207" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="1166" font-size="13.5" text-anchor="end" fill="#ecebe6">66%</text>
 <text x="24" y="1200" font-size="11.5" font-weight="700" letter-spacing="1.2" fill="#9a978f">SHIP AND RUN</text>
 <text x="24" y="1230" font-size="14" fill="#ecebe6">Database</text>
 <text x="239" y="1230" font-size="14" font-weight="700" fill="#ecebe6">Supabase</text>
 <rect x="404" y="1218" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="1218" width="142" height="14" rx="4" fill="#6fbf93"/>
+<rect x="404" y="1218" width="143" height="14" rx="4" fill="#6fbf93"/>
 <text x="776" y="1230" font-size="13.5" text-anchor="end" fill="#ecebe6">45%</text>
 <text x="24" y="1260" font-size="14" fill="#ecebe6">Authentication</text>
 <text x="239" y="1260" font-size="14" font-weight="700" fill="#ecebe6">Clerk</text>
 <rect x="404" y="1248" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="1248" width="251" height="14" rx="4" fill="#6fbf93"/>
+<rect x="404" y="1248" width="252" height="14" rx="4" fill="#6fbf93"/>
 <text x="776" y="1260" font-size="13.5" text-anchor="end" fill="#ecebe6">80%</text>
 <text x="24" y="1290" font-size="14" fill="#ecebe6">Hosting</text>
 <text x="239" y="1290" font-size="14" font-weight="700" fill="#ecebe6">Vercel</text>
 <rect x="404" y="1278" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="1278" width="181" height="14" rx="4" fill="#6fbf93"/>
+<rect x="404" y="1278" width="179" height="14" rx="4" fill="#6fbf93"/>
 <text x="776" y="1290" font-size="13.5" text-anchor="end" fill="#ecebe6">57%</text>
 <text x="24" y="1320" font-size="14" fill="#ecebe6">Frontend Framework</text>
 <text x="239" y="1320" font-size="14" font-weight="700" fill="#ecebe6">Next.js</text>
 <rect x="404" y="1308" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="1308" width="240" height="14" rx="4" fill="#6fbf93"/>
+<rect x="404" y="1308" width="239" height="14" rx="4" fill="#6fbf93"/>
 <text x="776" y="1320" font-size="13.5" text-anchor="end" fill="#ecebe6">76%</text>
 <text x="24" y="1350" font-size="14" fill="#ecebe6">Backend Framework</text>
 <text x="239" y="1350" font-size="14" font-weight="700" fill="#ecebe6">Laravel</text>
 <rect x="404" y="1338" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="1338" width="105" height="14" rx="4" fill="#6fbf93"/>
-<text x="776" y="1350" font-size="13.5" text-anchor="end" fill="#ecebe6">33%</text>
+<rect x="404" y="1338" width="107" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="1350" font-size="13.5" text-anchor="end" fill="#ecebe6">34%</text>
 <text x="24" y="1380" font-size="14" fill="#ecebe6">Database Access &amp; ORMs</text>
 <text x="239" y="1380" font-size="14" font-weight="700" fill="#ecebe6">Prisma</text>
 <rect x="404" y="1368" width="316" height="14" rx="4" fill="#252b27"/>
@@ -215,13 +215,13 @@
 <text x="24" y="1500" font-size="14" fill="#ecebe6">Payments</text>
 <text x="239" y="1500" font-size="14" font-weight="700" fill="#ecebe6">Stripe</text>
 <rect x="404" y="1488" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="1488" width="244" height="14" rx="4" fill="#6fbf93"/>
+<rect x="404" y="1488" width="242" height="14" rx="4" fill="#6fbf93"/>
 <text x="776" y="1500" font-size="13.5" text-anchor="end" fill="#ecebe6">77%</text>
 <text x="24" y="1530" font-size="14" fill="#ecebe6">Usage-Based Billing</text>
-<text x="239" y="1530" font-size="14" font-weight="700" fill="#ecebe6">Chargebee</text>
+<text x="239" y="1530" font-size="14" font-weight="700" fill="#ecebe6">Orb</text>
 <rect x="404" y="1518" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="1518" width="201" height="14" rx="4" fill="#6fbf93"/>
-<text x="776" y="1530" font-size="13.5" text-anchor="end" fill="#ecebe6">64%</text>
+<rect x="404" y="1518" width="119" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="1530" font-size="13.5" text-anchor="end" fill="#ecebe6">38%</text>
 <text x="24" y="1560" font-size="14" fill="#ecebe6">Error Monitoring</text>
 <text x="239" y="1560" font-size="14" font-weight="700" fill="#ecebe6">Sentry</text>
 <rect x="404" y="1548" width="316" height="14" rx="4" fill="#252b27"/>
@@ -235,18 +235,18 @@
 <text x="24" y="1620" font-size="14" fill="#ecebe6">Mobile Framework</text>
 <text x="239" y="1620" font-size="14" font-weight="700" fill="#ecebe6">Expo</text>
 <rect x="404" y="1608" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="1608" width="113" height="14" rx="4" fill="#6fbf93"/>
+<rect x="404" y="1608" width="115" height="14" rx="4" fill="#6fbf93"/>
 <text x="776" y="1620" font-size="13.5" text-anchor="end" fill="#ecebe6">36%</text>
 <text x="24" y="1650" font-size="14" fill="#ecebe6">In-App Purchases &amp; Subscrip…</text>
 <text x="239" y="1650" font-size="14" font-weight="700" fill="#ecebe6">RevenueCat</text>
 <rect x="404" y="1638" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="1638" width="274" height="14" rx="4" fill="#6fbf93"/>
+<rect x="404" y="1638" width="276" height="14" rx="4" fill="#6fbf93"/>
 <text x="776" y="1650" font-size="13.5" text-anchor="end" fill="#ecebe6">87%</text>
 <text x="24" y="1684" font-size="11.5" font-weight="700" letter-spacing="1.2" fill="#9a978f">GROW</text>
 <text x="24" y="1714" font-size="14" fill="#ecebe6">Web Analytics</text>
 <text x="239" y="1714" font-size="14" font-weight="700" fill="#ecebe6">Google Analytics</text>
 <rect x="404" y="1702" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="1702" width="147" height="14" rx="4" fill="#6fbf93"/>
+<rect x="404" y="1702" width="146" height="14" rx="4" fill="#6fbf93"/>
 <text x="776" y="1714" font-size="13.5" text-anchor="end" fill="#ecebe6">46%</text>
 <text x="24" y="1744" font-size="14" fill="#ecebe6">Product Analytics</text>
 <text x="239" y="1744" font-size="14" font-weight="700" fill="#ecebe6">PostHog</text>
@@ -261,8 +261,8 @@
 <text x="24" y="1804" font-size="14" fill="#ecebe6">Lifecycle Email</text>
 <text x="239" y="1804" font-size="14" font-weight="700" fill="#ecebe6">Loops</text>
 <rect x="404" y="1792" width="316" height="14" rx="4" fill="#252b27"/>
-<rect x="404" y="1792" width="254" height="14" rx="4" fill="#6fbf93"/>
-<text x="776" y="1804" font-size="13.5" text-anchor="end" fill="#ecebe6">80%</text>
+<rect x="404" y="1792" width="240" height="14" rx="4" fill="#6fbf93"/>
+<text x="776" y="1804" font-size="13.5" text-anchor="end" fill="#ecebe6">76%</text>
 <text x="24" y="1834" font-size="14" fill="#ecebe6">AI Search Visibility (GEO)</text>
 <text x="239" y="1834" font-size="14" font-weight="700" fill="#ecebe6">Profound</text>
 <rect x="404" y="1822" width="316" height="14" rx="4" fill="#252b27"/>
