@@ -1,10 +1,10 @@
 # Awesome SaaS Stack
 
-The tools behind 6,979 live SaaS and AI products, ranked by how many of them actually use each one — not by who wrote the loudest blog post.
+The tools behind 7,122 live SaaS and AI products, ranked by how many of them actually use each one — not by who wrote the loudest blog post.
 
-Every count comes from a source you can open: the maker's own words, the product's website, DNS records, subprocessor lists, customer stories and job postings (20,521 sourced usages in all). Follow a tool's link to see which products use it and why. Generated from [How Makers Build](https://howmakersbuild.com), refreshed weekly — last 2026-10-20.
+Every count comes from a source you can open: the maker's own words, the product's website, DNS records, subprocessor lists, customer stories and job postings (21,712 sourced usages in all). Follow a tool's link to see which products use it and why. Generated from [How Makers Build](https://howmakersbuild.com), refreshed weekly — last 2026-10-21.
 
-<a href="https://howmakersbuild.com"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/overview-dark.svg"><img alt="The most common pick per decision. AI Coding Agents: Claude Code; AI Code Editors: Cursor; AI App Builders: Lovable; AI UI Design: shadcn/ui; Parallel Agents &amp; Spec-Driven Work: Conductor; Voice Dictation: Wispr Flow; AI Code Review: Graphite; AI Testing: Meticulous; Code Editor &amp; Terminal: Xcode; Personal AI Agents: OpenClaw; LLM API: OpenAI API; LLM Gateway &amp; Routing: Helicone; Open Model Hosting &amp; GPUs: Hugging Face; Run Models Locally: Ollama; Embeddings: Cohere; Speech-to-Text &amp; Text-to-Speech: ElevenLabs; Voice Agents: LiveKit; Image &amp; Video Generation: fal; AI SDK &amp; Agent Framework: LangChain; Agent Memory: Mem0; LLM Observability &amp; Evals: Langfuse; Vector Database: Pinecone; Document Parsing: Reducto; Tool Integrations for Agents: Composio; Code Sandboxes for Agents: Daytona; Browser Automation for Agents: Browserbase; Search APIs for AI: Perplexity API; Web Scraping for AI: Firecrawl; Database: Supabase; Authentication: Clerk; Hosting: Vercel; Frontend Framework: Next.js; Backend Framework: Laravel; Database Access &amp; ORMs: Prisma; File Storage: Cloudflare R2; Background Jobs &amp; Cron: Temporal; Transactional Email: SendGrid; Payments: Stripe; Usage-Based Billing: Chargebee; Error Monitoring: Sentry; Image &amp; Video Hosting: Cloudinary; Mobile Framework: Expo; In-App Purchases &amp; Subscriptions: RevenueCat; Web Analytics: Google Analytics; Product Analytics: PostHog; Newsletter: Kit; Lifecycle Email: Loops; AI Search Visibility (GEO): AthenaHQ" src="charts/overview-light.svg" width="800"></picture></a>
+<a href="https://howmakersbuild.com"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/overview-dark.svg"><img alt="The most common pick per decision. AI Coding Agents: Claude Code; AI Code Editors: Cursor; AI App Builders: Lovable; AI UI Design: shadcn/ui; Parallel Agents &amp; Spec-Driven Work: Conductor; Voice Dictation: Wispr Flow; AI Code Review: Graphite; AI Testing: Meticulous; Code Editor &amp; Terminal: Xcode; Personal AI Agents: OpenClaw; Hosting for Personal Agents: Agent 37; LLM API: OpenAI API; LLM Gateway &amp; Routing: Kong Gateway; Open Model Hosting &amp; GPUs: Hugging Face; Run Models Locally: Ollama; Embeddings: Cohere; Speech-to-Text &amp; Text-to-Speech: ElevenLabs; Voice Agents: LiveKit; Image &amp; Video Generation: fal; AI SDK &amp; Agent Framework: LangChain; Agent Memory: Mem0; LLM Observability &amp; Evals: Datadog; Vector Database: Pinecone; Document Parsing: Reducto; Tool Integrations for Agents: Composio; Code Sandboxes for Agents: Daytona; Browser Automation for Agents: Browserbase; Search APIs for AI: Perplexity API; Web Scraping for AI: Firecrawl; No-Code AI Agent Builders: Flowise; AI Guardrails &amp; Security: Lakera; Workflow Automation: Make; Database: Supabase; Authentication: Clerk; Hosting: Vercel; Frontend Framework: Next.js; Backend Framework: Laravel; Database Access &amp; ORMs: Prisma; File Storage: Cloudflare R2; Background Jobs &amp; Cron: Temporal; Transactional Email: SendGrid; Payments: Stripe; Usage-Based Billing: Chargebee; Error Monitoring: Sentry; Image &amp; Video Hosting: Cloudinary; Mobile Framework: Expo; In-App Purchases &amp; Subscriptions: RevenueCat; Web Analytics: Google Analytics; Product Analytics: PostHog; Newsletter: Kit; Lifecycle Email: Loops; AI Search Visibility (GEO): Profound" src="charts/overview-light.svg" width="800"></picture></a>
 
 ## Contents
 
@@ -20,6 +20,7 @@ Every count comes from a source you can open: the maker's own words, the product
   - [Code Editor & Terminal](#code-editor--terminal)
 - [Personal agents](#personal-agents)
   - [Personal AI Agents](#personal-ai-agents)
+  - [Hosting for Personal Agents](#hosting-for-personal-agents)
 - [AI models and media](#ai-models-and-media)
   - [LLM API](#llm-api)
   - [LLM Gateway & Routing](#llm-gateway--routing)
@@ -40,6 +41,9 @@ Every count comes from a source you can open: the maker's own words, the product
   - [Browser Automation for Agents](#browser-automation-for-agents)
   - [Search APIs for AI](#search-apis-for-ai)
   - [Web Scraping for AI](#web-scraping-for-ai)
+  - [No-Code AI Agent Builders](#no-code-ai-agent-builders)
+  - [AI Guardrails & Security](#ai-guardrails--security)
+  - [Workflow Automation](#workflow-automation)
 - [Ship and run](#ship-and-run)
   - [Database](#database)
   - [Authentication](#authentication)
@@ -253,61 +257,80 @@ An agent that works for you rather than in your product — it reads your inbox,
 
 </details>
 
+### Hosting for Personal Agents
+
+Somewhere to keep an open-source agent like OpenClaw or Hermes Agent running around the clock, without leaving your own computer on. What 2 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/personal-agent-hosting).
+
+<a href="https://howmakersbuild.com/tasks/personal-agent-hosting"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/personal-agent-hosting-dark.svg"><img alt="Hosting for Personal Agents: Agent 37 50%, KiloClaw 50%" src="charts/personal-agent-hosting-light.svg" width="800"></picture></a>
+
+<details><summary>All 2 with what each is best for, comparisons and pricing</summary>
+
+| Tool | Used by | Best for | More |
+|---|---|---|---|
+| [Agent 37](https://howmakersbuild.com/tools/agent-37) | 1 (50%) | Ready-made Hermes, OpenClaw, Claude Code and Codex sandboxes, created by one API call per user and metered by the minute. |  |
+| [KiloClaw](https://howmakersbuild.com/tools/kiloclaw) | 1 (50%) | A hosted OpenClaw from Kilo with a morning brief, its own email address and chat apps, with no machine of your own. |  |
+
+</details>
+
 ## AI models and media
 
 The models your product calls, how you route and serve them, and the APIs for voice, images and video.
 
 ### LLM API
 
-Call large language models from your product. What 960 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/llm-api).
+Call large language models from your product. What 874 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/llm-api).
 
-<a href="https://howmakersbuild.com/tasks/llm-api"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/llm-api-dark.svg"><img alt="LLM API: OpenAI API 76%, Claude 26%, Gemini API 10%, OpenRouter 6%, Azure OpenAI 2%, LiteLLM 2%" src="charts/llm-api-light.svg" width="800"></picture></a>
+<a href="https://howmakersbuild.com/tasks/llm-api"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/llm-api-dark.svg"><img alt="LLM API: OpenAI API 83%, Gemini API 11%, OpenRouter 7%, Azure OpenAI 3%, LiteLLM 2%, Mistral AI 2%" src="charts/llm-api-light.svg" width="800"></picture></a>
 
 <details><summary>All 10 with what each is best for, comparisons and pricing</summary>
 
 | Tool | Used by | Best for | More |
 |---|---|---|---|
-| [OpenAI API](https://howmakersbuild.com/tools/openai) | 729 (76%) | The broadest model lineup — text, images, speech, embeddings — and the largest ecosystem. | [vs Claude](https://howmakersbuild.com/compare/claude-vs-openai) · [pricing](https://howmakersbuild.com/tools/openai/pricing) |
-| [Claude](https://howmakersbuild.com/tools/claude) | 252 (26%) | Coding, long documents and agent-style tool use. | [vs OpenAI API](https://howmakersbuild.com/compare/claude-vs-openai) · [pricing](https://howmakersbuild.com/tools/claude/pricing) |
-| [Gemini API](https://howmakersbuild.com/tools/gemini-api) | 99 (10%) | Very long context and multimodal input, with a free tier to start. | [vs Claude](https://howmakersbuild.com/compare/claude-vs-gemini-api) · [pricing](https://howmakersbuild.com/tools/gemini-api/pricing) |
-| [OpenRouter](https://howmakersbuild.com/tools/openrouter) | 61 (6%) | Trying many models from many providers with one API key and one bill, without opening an account at each. | [vs LiteLLM](https://howmakersbuild.com/compare/litellm-vs-openrouter) |
-| [Azure OpenAI](https://howmakersbuild.com/tools/azure-openai) | 22 (2%) | OpenAI models inside an Azure account, with regional and EU/US data-zone deployments. | [vs OpenAI API](https://howmakersbuild.com/compare/azure-openai-vs-openai) |
+| [OpenAI API](https://howmakersbuild.com/tools/openai) | 729 (83%) | The broadest model lineup — text, images, speech, embeddings — and the largest ecosystem. | [vs Claude](https://howmakersbuild.com/compare/claude-vs-openai) · [pricing](https://howmakersbuild.com/tools/openai/pricing) |
+| [Gemini API](https://howmakersbuild.com/tools/gemini-api) | 99 (11%) | Very long context and multimodal input, with a free tier to start. | [vs Claude](https://howmakersbuild.com/compare/claude-vs-gemini-api) · [pricing](https://howmakersbuild.com/tools/gemini-api/pricing) |
+| [OpenRouter](https://howmakersbuild.com/tools/openrouter) | 61 (7%) | Trying many models from many providers with one API key and one bill, without opening an account at each. | [vs LiteLLM](https://howmakersbuild.com/compare/litellm-vs-openrouter) |
+| [Azure OpenAI](https://howmakersbuild.com/tools/azure-openai) | 22 (3%) | OpenAI models inside an Azure account, with regional and EU/US data-zone deployments. | [vs OpenAI API](https://howmakersbuild.com/compare/azure-openai-vs-openai) |
 | [LiteLLM](https://howmakersbuild.com/tools/litellm) · open source | 21 (2%) | Running your own OpenAI-compatible proxy in front of your own provider keys, with retries, routing and per-key budgets. | [vs OpenRouter](https://howmakersbuild.com/compare/litellm-vs-openrouter) |
 | [Mistral AI](https://howmakersbuild.com/tools/mistral) | 15 (2%) | A European provider whose API covers chat, coding, OCR and speech models. | [vs Claude](https://howmakersbuild.com/compare/claude-vs-mistral) · [pricing](https://howmakersbuild.com/tools/mistral/pricing) |
 | [DeepSeek](https://howmakersbuild.com/tools/deepseek) | 11 (1%) | Low per-token prices on strong reasoning and coding models, with OpenAI- and Anthropic-format endpoints. | [vs Claude](https://howmakersbuild.com/compare/claude-vs-deepseek) · [pricing](https://howmakersbuild.com/tools/deepseek/pricing) |
 | [Grok API](https://howmakersbuild.com/tools/grok-api) | 6 (1%) | Grok models with built-in web and X search, plus image, video and voice APIs. | [vs Claude](https://howmakersbuild.com/compare/claude-vs-grok-api) · [pricing](https://howmakersbuild.com/tools/grok-api/pricing) |
 | [MiniMax](https://howmakersbuild.com/tools/minimax) | 6 (1%) | Low per-token prices on open-weight coding and agent models, with speech, image, video and music models in the same account. | [pricing](https://howmakersbuild.com/tools/minimax/pricing) |
+| [Vertex AI](https://howmakersbuild.com/tools/google-vertex-ai) | 3 (<1%) | Gemini and partner models such as Claude on Google Cloud, with its regions, IAM and billing. | [vs Gemini API](https://howmakersbuild.com/compare/gemini-api-vs-google-vertex-ai) |
 
 </details>
 
 ### LLM Gateway & Routing
 
-Put one layer between your app and the model providers, so you can switch models, fail over and track spend without rewriting calls. What 1 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/llm-gateway).
+Put one layer between your app and the model providers, so you can switch models, fail over and track spend without rewriting calls. What 4 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/llm-gateway).
 
-<a href="https://howmakersbuild.com/tasks/llm-gateway"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/llm-gateway-dark.svg"><img alt="LLM Gateway &amp; Routing: Helicone 100%" src="charts/llm-gateway-light.svg" width="800"></picture></a>
+<a href="https://howmakersbuild.com/tasks/llm-gateway"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/llm-gateway-dark.svg"><img alt="LLM Gateway &amp; Routing: Kong Gateway 50%, Helicone 25%, Unify 25%" src="charts/llm-gateway-light.svg" width="800"></picture></a>
 
-<details><summary>All 1 with what each is best for, comparisons and pricing</summary>
+<details><summary>All 3 with what each is best for, comparisons and pricing</summary>
 
 | Tool | Used by | Best for | More |
 |---|---|---|---|
-| [Helicone](https://howmakersbuild.com/tools/helicone) · open source | 1 (100%) | Adding a gateway when your main goal is logging and debugging every request, with caching and rate limits on the side. | [pricing](https://howmakersbuild.com/tools/helicone/pricing) |
+| [Kong Gateway](https://howmakersbuild.com/tools/kong) · open source | 2 (50%) | Routing, auth, token budgets and usage analytics for LLM, MCP and agent-to-agent traffic, run as AI plugins on Kong Gateway. |  |
+| [Helicone](https://howmakersbuild.com/tools/helicone) · open source | 1 (25%) | Adding a gateway when your main goal is logging and debugging every request, with caching and rate limits on the side. | [pricing](https://howmakersbuild.com/tools/helicone/pricing) |
+| [Unify](https://howmakersbuild.com/tools/unify) | 1 (25%) | One API in front of many models that routed each prompt to the best one for quality, cost and speed. |  |
 
 </details>
 
 ### Open Model Hosting & GPUs
 
-Run open-weight or custom models in production without buying hardware — either as a ready API or on GPUs you rent. What 113 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/gpu-inference).
+Run open-weight or custom models in production without buying hardware — either as a ready API or on GPUs you rent. What 119 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/gpu-inference).
 
-<a href="https://howmakersbuild.com/tasks/gpu-inference"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/gpu-inference-dark.svg"><img alt="Open Model Hosting &amp; GPUs: Hugging Face 65%, Baseten 20%, Runpod 17%, Morph 1%" src="charts/gpu-inference-light.svg" width="800"></picture></a>
+<a href="https://howmakersbuild.com/tasks/gpu-inference"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/gpu-inference-dark.svg"><img alt="Open Model Hosting &amp; GPUs: Hugging Face 61%, Baseten 19%, Runpod 16%, Lambda 4%, Morph 1%, Novita AI 1%" src="charts/gpu-inference-light.svg" width="800"></picture></a>
 
-<details><summary>All 4 with what each is best for, comparisons and pricing</summary>
+<details><summary>All 6 with what each is best for, comparisons and pricing</summary>
 
 | Tool | Used by | Best for | More |
 |---|---|---|---|
-| [Hugging Face](https://howmakersbuild.com/tools/hugging-face) | 73 (65%) | Deploying almost any model from the Hugging Face Hub to a dedicated endpoint, or calling popular models through Inference Providers, which routes to partner hosts under one API. |  |
-| [Baseten](https://howmakersbuild.com/tools/baseten) | 23 (20%) | Deploying a specific model as a production endpoint with autoscaling and monitoring. |  |
-| [Runpod](https://howmakersbuild.com/tools/runpod) | 19 (17%) | Renting GPU machines by the hour or running serverless GPU workers, with control over the hardware. |  |
+| [Hugging Face](https://howmakersbuild.com/tools/hugging-face) | 73 (61%) | Deploying almost any model from the Hugging Face Hub to a dedicated endpoint, or calling popular models through Inference Providers, which routes to partner hosts under one API. |  |
+| [Baseten](https://howmakersbuild.com/tools/baseten) | 23 (19%) | Deploying a specific model as a production endpoint with autoscaling and monitoring. |  |
+| [Runpod](https://howmakersbuild.com/tools/runpod) | 19 (16%) | Renting GPU machines by the hour or running serverless GPU workers, with control over the hardware. |  |
+| [Lambda](https://howmakersbuild.com/tools/lambda-ai) | 5 (4%) | Hourly NVIDIA GPU instances and multi-GPU clusters with no egress fees, for training or self-hosted serving. |  |
 | [Morph](https://howmakersbuild.com/tools/morph) | 1 (1%) | Fast open models for coding agents (Kimi K3, GLM-5.3, Qwen, MiniMax, DeepSeek) plus its own Fast Apply, WarpGrep and Compact models, behind one OpenAI-compatible API. |  |
+| [Novita AI](https://howmakersbuild.com/tools/novita-ai) | 1 (1%) | A wide per-token catalog of open models for text, image, audio and video, with agent sandboxes and GPU instances in the same account. |  |
 
 </details>
 
@@ -364,19 +387,20 @@ Turn audio into text, or text into natural speech, for transcription, voice feat
 
 ### Voice Agents
 
-Build an AI that talks with people in real time — on the phone or in the browser — by chaining speech-to-text, an LLM and text-to-speech. What 71 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/voice-agents).
+Build an AI that talks with people in real time — on the phone or in the browser — by chaining speech-to-text, an LLM and text-to-speech. What 72 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/voice-agents).
 
-<a href="https://howmakersbuild.com/tasks/voice-agents"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/voice-agents-dark.svg"><img alt="Voice Agents: LiveKit 51%, Vapi 23%, Daily 21%, Pipecat 7%, Retell AI 6%" src="charts/voice-agents-light.svg" width="800"></picture></a>
+<a href="https://howmakersbuild.com/tasks/voice-agents"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/voice-agents-dark.svg"><img alt="Voice Agents: LiveKit 50%, Vapi 22%, Daily 21%, Pipecat 7%, Retell AI 6%, Layercode 1%" src="charts/voice-agents-light.svg" width="800"></picture></a>
 
-<details><summary>All 5 with what each is best for, comparisons and pricing</summary>
+<details><summary>All 6 with what each is best for, comparisons and pricing</summary>
 
 | Tool | Used by | Best for | More |
 |---|---|---|---|
-| [LiveKit](https://howmakersbuild.com/tools/livekit) · open source | 36 (51%) | Real-time voice and video in your own app, with an agents framework on top of its WebRTC infrastructure. |  |
-| [Vapi](https://howmakersbuild.com/tools/vapi) | 16 (23%) | Developers who want to configure every part — models, voices, tools, phone numbers — through an API. |  |
+| [LiveKit](https://howmakersbuild.com/tools/livekit) · open source | 36 (50%) | Real-time voice and video in your own app, with an agents framework on top of its WebRTC infrastructure. |  |
+| [Vapi](https://howmakersbuild.com/tools/vapi) | 16 (22%) | Developers who want to configure every part — models, voices, tools, phone numbers — through an API. |  |
 | [Daily](https://howmakersbuild.com/tools/daily) | 15 (21%) | WebRTC audio and video transport plus Pipecat Cloud, which hosts Pipecat agents so you don't run the real-time servers. |  |
 | [Pipecat](https://howmakersbuild.com/tools/pipecat) · open source | 5 (7%) | A Python pipeline where you choose and swap every speech, LLM and voice component. |  |
 | [Retell AI](https://howmakersbuild.com/tools/retell-ai) | 4 (6%) | Phone agents for bookings and customer service, set up largely through a visual builder. |  |
+| [Layercode](https://howmakersbuild.com/tools/layercode) | 1 (1%) | Low-latency voice agents whose speech pipeline ran on Cloudflare's edge while you supplied the agent logic. |  |
 
 </details>
 
@@ -409,11 +433,11 @@ What an agent inside your product is built from — a framework, memory and retr
 
 ### AI SDK & Agent Framework
 
-The code between your product and the model — streaming, tool calls, structured output — and, when you need it, the agent loop that keeps state and hands work between steps. What 117 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/agent-framework).
+The code between your product and the model — streaming, tool calls, structured output — and, when you need it, the agent loop that keeps state and hands work between steps. What 116 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/agent-framework).
 
 <a href="https://howmakersbuild.com/tasks/agent-framework"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/agent-framework-dark.svg"><img alt="AI SDK &amp; Agent Framework: LangChain 56%, Mastra 21%, LlamaIndex 14%, AI SDK 4%, CrewAI 3%, CopilotKit 2%" src="charts/agent-framework-light.svg" width="800"></picture></a>
 
-<details><summary>All 10 with what each is best for, comparisons and pricing</summary>
+<details><summary>All 8 with what each is best for, comparisons and pricing</summary>
 
 | Tool | Used by | Best for | More |
 |---|---|---|---|
@@ -425,8 +449,6 @@ The code between your product and the model — streaming, tool calls, structure
 | [CopilotKit](https://howmakersbuild.com/tools/copilotkit) · open source | 2 (2%) | Putting an agent inside your app's UI — chat, generative UI, shared state with the page — connected to any agent backend over the AG-UI protocol. |  |
 | [OpenAI Agents SDK](https://howmakersbuild.com/tools/openai-agents-sdk) · open source | 1 (1%) | A small agent loop with tools, handoffs, guardrails and tracing built in, from the OpenAI team. |  |
 | [LangGraph](https://howmakersbuild.com/tools/langgraph) · open source | 1 (1%) | Stateful agents built as an explicit graph of steps, with checkpoints, retries, streaming and pauses for human approval, in Python or JavaScript. |  |
-| [Dify](https://howmakersbuild.com/tools/dify-ai) | 1 (1%) | Agents, RAG chatbots and multi-step LLM workflows built on a visual canvas and published as a web app, API or MCP server. |  |
-| [Langflow](https://howmakersbuild.com/tools/langflow) · open source | 1 (1%) | Agents, RAG flows and MCP servers assembled from components on a visual canvas and served as an API, an MCP server or an embedded chat widget, under the MIT license. |  |
 
 </details>
 
@@ -448,19 +470,21 @@ Let your agent remember users, past conversations and what it learned, across se
 
 ### LLM Observability & Evals
 
-See what your prompts, models and agents actually did in production, and test changes against real examples before you ship them. What 65 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/llm-observability).
+See what your prompts, models and agents actually did in production, and test changes against real examples before you ship them. What 114 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/llm-observability).
 
-<a href="https://howmakersbuild.com/tasks/llm-observability"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/llm-observability-dark.svg"><img alt="LLM Observability &amp; Evals: Langfuse 52%, Helicone 20%, LangSmith 17%, Braintrust 9%, Weights &amp; Biases 2%" src="charts/llm-observability-light.svg" width="800"></picture></a>
+<a href="https://howmakersbuild.com/tasks/llm-observability"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/llm-observability-dark.svg"><img alt="LLM Observability &amp; Evals: Datadog 44%, Langfuse 30%, Helicone 11%, LangSmith 10%, Braintrust 5%, Respan 2%" src="charts/llm-observability-light.svg" width="800"></picture></a>
 
-<details><summary>All 5 with what each is best for, comparisons and pricing</summary>
+<details><summary>All 7 with what each is best for, comparisons and pricing</summary>
 
 | Tool | Used by | Best for | More |
 |---|---|---|---|
-| [Langfuse](https://howmakersbuild.com/tools/langfuse) · open source | 34 (52%) | Tracing, prompt management and evals in one tool you can run on your own server for free. | [vs LangSmith](https://howmakersbuild.com/compare/langfuse-vs-langsmith) · [pricing](https://howmakersbuild.com/tools/langfuse/pricing) |
-| [Helicone](https://howmakersbuild.com/tools/helicone) · open source | 13 (20%) | Getting request logs, costs and latency by changing one base URL, with no SDK instrumentation. | [vs Langfuse](https://howmakersbuild.com/compare/helicone-vs-langfuse) · [pricing](https://howmakersbuild.com/tools/helicone/pricing) |
-| [LangSmith](https://howmakersbuild.com/tools/langsmith) | 11 (17%) | Apps built on LangChain or LangGraph, where tracing works with almost no setup. | [vs Langfuse](https://howmakersbuild.com/compare/langfuse-vs-langsmith) · [pricing](https://howmakersbuild.com/tools/langsmith/pricing) |
-| [Braintrust](https://howmakersbuild.com/tools/braintrust) | 6 (9%) | Eval-driven work — scoring outputs and comparing prompts and models side by side in experiments. | [vs LangSmith](https://howmakersbuild.com/compare/braintrust-vs-langsmith) |
-| [Weights & Biases](https://howmakersbuild.com/tools/weights-biases) | 1 (2%) | Tracing and evaluating LLM apps and agents with W&B Weave, in the same account you use for experiment tracking and a model registry when you train or fine-tune models. |  |
+| [Datadog](https://howmakersbuild.com/tools/datadog) | 50 (44%) | Traces, token costs, errors and quality and safety evaluations for LLM apps and agents, next to the APM and logs you already have in Datadog. |  |
+| [Langfuse](https://howmakersbuild.com/tools/langfuse) · open source | 34 (30%) | Tracing, prompt management and evals in one tool you can run on your own server for free. | [vs LangSmith](https://howmakersbuild.com/compare/langfuse-vs-langsmith) · [pricing](https://howmakersbuild.com/tools/langfuse/pricing) |
+| [Helicone](https://howmakersbuild.com/tools/helicone) · open source | 13 (11%) | Getting request logs, costs and latency by changing one base URL, with no SDK instrumentation. | [vs Langfuse](https://howmakersbuild.com/compare/helicone-vs-langfuse) · [pricing](https://howmakersbuild.com/tools/helicone/pricing) |
+| [LangSmith](https://howmakersbuild.com/tools/langsmith) | 11 (10%) | Apps built on LangChain or LangGraph, where tracing works with almost no setup. | [vs Langfuse](https://howmakersbuild.com/compare/langfuse-vs-langsmith) · [pricing](https://howmakersbuild.com/tools/langsmith/pricing) |
+| [Braintrust](https://howmakersbuild.com/tools/braintrust) | 6 (5%) | Eval-driven work — scoring outputs and comparing prompts and models side by side in experiments. | [vs LangSmith](https://howmakersbuild.com/compare/braintrust-vs-langsmith) |
+| [Respan](https://howmakersbuild.com/tools/respan) | 2 (2%) | Tracing, monitoring, prompt management and LLM-judge evals for agents, with a built-in gateway that logs every call it routes. |  |
+| [Weights & Biases](https://howmakersbuild.com/tools/weights-biases) | 1 (1%) | Tracing and evaluating LLM apps and agents with W&B Weave, in the same account you use for experiment tracking and a model registry when you train or fine-tune models. |  |
 
 </details>
 
@@ -486,32 +510,34 @@ Store embeddings and find the most similar ones fast, for semantic search, RAG a
 
 ### Document Parsing
 
-Turn PDFs, scans, slides and spreadsheets into clean text and tables a model can use, before chunking and embedding them. What 12 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/document-parsing).
+Turn PDFs, scans, slides and spreadsheets into clean text and tables a model can use, before chunking and embedding them. What 13 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/document-parsing).
 
-<a href="https://howmakersbuild.com/tasks/document-parsing"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/document-parsing-dark.svg"><img alt="Document Parsing: Reducto 92%, Unstructured 8%" src="charts/document-parsing-light.svg" width="800"></picture></a>
-
-<details><summary>All 2 with what each is best for, comparisons and pricing</summary>
-
-| Tool | Used by | Best for | More |
-|---|---|---|---|
-| [Reducto](https://howmakersbuild.com/tools/reducto) | 11 (92%) | Hard documents — scanned forms, dense tables, financial and legal files — where extraction accuracy matters most. |  |
-| [Unstructured](https://howmakersbuild.com/tools/unstructured) · open source | 1 (8%) | Many file types through one pipeline, starting with the open-source library and moving to the hosted API later. |  |
-
-</details>
-
-### Tool Integrations for Agents
-
-Let your agent act in the apps your users already use — Gmail, Slack, GitHub, CRMs — without building each OAuth flow and API client yourself. What 34 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/agent-tools).
-
-<a href="https://howmakersbuild.com/tasks/agent-tools"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/agent-tools-dark.svg"><img alt="Tool Integrations for Agents: Composio 74%, Pipedream 24%, Arcade 3%" src="charts/agent-tools-light.svg" width="800"></picture></a>
+<a href="https://howmakersbuild.com/tasks/document-parsing"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/document-parsing-dark.svg"><img alt="Document Parsing: Reducto 85%, Unstructured 8%, Carbon 8%" src="charts/document-parsing-light.svg" width="800"></picture></a>
 
 <details><summary>All 3 with what each is best for, comparisons and pricing</summary>
 
 | Tool | Used by | Best for | More |
 |---|---|---|---|
-| [Composio](https://howmakersbuild.com/tools/composio) · open source | 25 (74%) | Connecting an agent to many apps at once, with tool schemas and per-user OAuth ready for the model. |  |
-| [Pipedream](https://howmakersbuild.com/tools/pipedream) | 8 (24%) | Managed auth and prebuilt actions across thousands of APIs, plus event triggers and workflows beyond agent use. |  |
+| [Reducto](https://howmakersbuild.com/tools/reducto) | 11 (85%) | Hard documents — scanned forms, dense tables, financial and legal files — where extraction accuracy matters most. |  |
+| [Unstructured](https://howmakersbuild.com/tools/unstructured) · open source | 1 (8%) | Many file types through one pipeline, starting with the open-source library and moving to the hosted API later. |  |
+| [Carbon](https://howmakersbuild.com/tools/carbon-ai) | 1 (8%) | Syncing users' Google Drive, Notion and other sources into your vector database through one API. |  |
+
+</details>
+
+### Tool Integrations for Agents
+
+Let your agent act in the apps your users already use — Gmail, Slack, GitHub, CRMs — without building each OAuth flow and API client yourself. What 35 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/agent-tools).
+
+<a href="https://howmakersbuild.com/tasks/agent-tools"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/agent-tools-dark.svg"><img alt="Tool Integrations for Agents: Composio 71%, Pipedream 23%, Arcade 3%, Nango 3%" src="charts/agent-tools-light.svg" width="800"></picture></a>
+
+<details><summary>All 4 with what each is best for, comparisons and pricing</summary>
+
+| Tool | Used by | Best for | More |
+|---|---|---|---|
+| [Composio](https://howmakersbuild.com/tools/composio) · open source | 25 (71%) | Connecting an agent to many apps at once, with tool schemas and per-user OAuth ready for the model. |  |
+| [Pipedream](https://howmakersbuild.com/tools/pipedream) | 8 (23%) | Managed auth and prebuilt actions across thousands of APIs, plus event triggers and workflows beyond agent use. |  |
 | [Arcade](https://howmakersbuild.com/tools/arcade-dev) | 1 (3%) | Agents that act on behalf of each signed-in user, with per-user authorization and prebuilt tools, plus a framework for writing your own tools as MCP servers. |  |
+| [Nango](https://howmakersbuild.com/tools/nango) | 1 (3%) | Managed OAuth for 1,000+ APIs plus pre-built tools your agent calls over one MCP server, with syncs and webhooks for the same connections. |  |
 
 </details>
 
@@ -532,17 +558,19 @@ Give your agent an isolated computer to run the code and shell commands it write
 
 ### Browser Automation for Agents
 
-Let an AI agent use websites like a person — navigate, click, fill forms and read pages — when there is no API. What 28 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/browser-agents).
+Let an AI agent use websites like a person — navigate, click, fill forms and read pages — when there is no API. What 29 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/browser-agents).
 
-<a href="https://howmakersbuild.com/tasks/browser-agents"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/browser-agents-dark.svg"><img alt="Browser Automation for Agents: Browserbase 57%, Browser Use 43%, Kernel 4%" src="charts/browser-agents-light.svg" width="800"></picture></a>
+<a href="https://howmakersbuild.com/tasks/browser-agents"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/browser-agents-dark.svg"><img alt="Browser Automation for Agents: Browserbase 55%, Browser Use 41%, Kernel 3%, Skyvern 3%, Browserless 3%" src="charts/browser-agents-light.svg" width="800"></picture></a>
 
-<details><summary>All 3 with what each is best for, comparisons and pricing</summary>
+<details><summary>All 5 with what each is best for, comparisons and pricing</summary>
 
 | Tool | Used by | Best for | More |
 |---|---|---|---|
-| [Browserbase](https://howmakersbuild.com/tools/browserbase) | 16 (57%) | Running many headless browsers in the cloud with session recordings, proxies and captcha handling. |  |
-| [Browser Use](https://howmakersbuild.com/tools/browser-use) · open source | 12 (43%) | Giving a model a browser and a goal in a few lines of Python, and letting it work out the clicks. |  |
-| [Kernel](https://howmakersbuild.com/tools/kernel) | 1 (4%) | Cloud browsers for agents with reusable sessions and handling for bot checks; the browser images are open source. |  |
+| [Browserbase](https://howmakersbuild.com/tools/browserbase) | 16 (55%) | Running many headless browsers in the cloud with session recordings, proxies and captcha handling. |  |
+| [Browser Use](https://howmakersbuild.com/tools/browser-use) · open source | 12 (41%) | Giving a model a browser and a goal in a few lines of Python, and letting it work out the clicks. |  |
+| [Kernel](https://howmakersbuild.com/tools/kernel) | 1 (3%) | Cloud browsers for agents with reusable sessions and handling for bot checks; the browser images are open source. |  |
+| [Skyvern](https://howmakersbuild.com/tools/skyvern) · open source | 1 (3%) | Automating form filling, logins and downloads on websites the agent hasn't seen before, open source or as a hosted cloud with CAPTCHA solving and 2FA. |  |
+| [Browserless](https://howmakersbuild.com/tools/browserless) | 1 (3%) | Pointing existing Puppeteer or Playwright code at hosted browsers, plus REST endpoints for screenshots, PDFs and scraping. |  |
 
 </details>
 
@@ -567,17 +595,62 @@ Give your model or agent live web search, so answers use current information ins
 
 ### Web Scraping for AI
 
-Turn web pages into clean Markdown or structured data that a model can read, for RAG, research agents or data features. What 54 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/web-data-for-ai).
+Turn web pages into clean Markdown or structured data that a model can read, for RAG, research agents or data features. What 57 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/web-data-for-ai).
 
-<a href="https://howmakersbuild.com/tasks/web-data-for-ai"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/web-data-for-ai-dark.svg"><img alt="Web Scraping for AI: Firecrawl 48%, Context.dev 33%, Apify 24%" src="charts/web-data-for-ai-light.svg" width="800"></picture></a>
+<a href="https://howmakersbuild.com/tasks/web-data-for-ai"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/web-data-for-ai-dark.svg"><img alt="Web Scraping for AI: Firecrawl 46%, Context.dev 32%, Apify 23%, Bright Data 5%" src="charts/web-data-for-ai-light.svg" width="800"></picture></a>
 
-<details><summary>All 3 with what each is best for, comparisons and pricing</summary>
+<details><summary>All 4 with what each is best for, comparisons and pricing</summary>
 
 | Tool | Used by | Best for | More |
 |---|---|---|---|
-| [Firecrawl](https://howmakersbuild.com/tools/firecrawl) · open source | 26 (48%) | Crawling whole sites into Markdown or JSON through one API that handles rendering and blocking. |  |
-| [Context.dev](https://howmakersbuild.com/tools/context-dev) | 18 (33%) | Scraping and crawling pages into Markdown plus company brand data — logos, colors, fonts — from one credit-based API. |  |
-| [Apify](https://howmakersbuild.com/tools/apify) | 13 (24%) | Ready-made scrapers for specific sites — maps listings, social profiles, e-commerce — that you run without writing one. |  |
+| [Firecrawl](https://howmakersbuild.com/tools/firecrawl) · open source | 26 (46%) | Crawling whole sites into Markdown or JSON through one API that handles rendering and blocking. |  |
+| [Context.dev](https://howmakersbuild.com/tools/context-dev) | 18 (32%) | Scraping and crawling pages into Markdown plus company brand data — logos, colors, fonts — from one credit-based API. |  |
+| [Apify](https://howmakersbuild.com/tools/apify) | 13 (23%) | Ready-made scrapers for specific sites — maps listings, social profiles, e-commerce — that you run without writing one. |  |
+| [Bright Data](https://howmakersbuild.com/tools/bright-data) | 3 (5%) | Getting past blocks and CAPTCHAs on hard sites, with ready scrapers for 800+ sites, search-results and remote-browser APIs on its own proxy network. |  |
+
+</details>
+
+### No-Code AI Agent Builders
+
+Build an AI agent or chatbot in a visual builder — its instructions, knowledge, tools and the channels it answers on — and deploy it without writing the agent loop yourself. What 2 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/no-code-agent-builder).
+
+<a href="https://howmakersbuild.com/tasks/no-code-agent-builder"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/no-code-agent-builder-dark.svg"><img alt="No-Code AI Agent Builders: Flowise 50%, Wordware 50%" src="charts/no-code-agent-builder-light.svg" width="800"></picture></a>
+
+<details><summary>All 2 with what each is best for, comparisons and pricing</summary>
+
+| Tool | Used by | Best for | More |
+|---|---|---|---|
+| [Flowise](https://howmakersbuild.com/tools/flowise) · open source | 1 (50%) | A self-hosted visual builder for LLM chatflows and multi-agent flows, served as an API or embedded chat. |  |
+| [Wordware](https://howmakersbuild.com/tools/wordware) | 1 (50%) | Cross-functional teams writing AI apps as natural-language prompts combined with loops, logic and function calls. |  |
+
+</details>
+
+### AI Guardrails & Security
+
+Stop prompt injection, data leaks and unsafe outputs in your LLM app by checking what goes into the model and what comes out before users or tools see it. What 1 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/ai-security).
+
+<a href="https://howmakersbuild.com/tasks/ai-security"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/ai-security-dark.svg"><img alt="AI Guardrails &amp; Security: Lakera 100%" src="charts/ai-security-light.svg" width="800"></picture></a>
+
+<details><summary>All 1 with what each is best for, comparisons and pricing</summary>
+
+| Tool | Used by | Best for | More |
+|---|---|---|---|
+| [Lakera](https://howmakersbuild.com/tools/lakera) | 1 (100%) | One API call that screens prompts, retrieved content and outputs for prompt injection, data leaks and harmful content, in under 50 ms. |  |
+
+</details>
+
+### Workflow Automation
+
+Connect the apps you already use and run the glue between them — new signup to CRM, payment to Slack, form to spreadsheet — without writing a backend. Filed as process: these automations are the team's internal plumbing, not code that ships in the product; automations inside your product belong in background jobs or agent tools. What 23 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/automation).
+
+<a href="https://howmakersbuild.com/tasks/automation"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/automation-dark.svg"><img alt="Workflow Automation: Make 91%, Relay.app 9%" src="charts/automation-light.svg" width="800"></picture></a>
+
+<details><summary>All 2 with what each is best for, comparisons and pricing</summary>
+
+| Tool | Used by | Best for | More |
+|---|---|---|---|
+| [Make](https://howmakersbuild.com/tools/make) | 21 (91%) | Multi-step flows with branches, loops and data mapping on a visual canvas, at a lower price per operation. |  |
+| [Relay.app](https://howmakersbuild.com/tools/relay-app) | 2 (9%) | Non-engineers building AI agents and workflows from templates such as lead qualification and meeting follow-ups. |  |
 
 </details>
 
@@ -633,7 +706,7 @@ Let users sign up, sign in and stay signed in — without building password stor
 
 ### Hosting
 
-Get your app onto the internet with a URL, HTTPS and deploys from git. What 3,504 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/hosting).
+Get your app onto the internet with a URL, HTTPS and deploys from git. What 3,508 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/hosting).
 
 <a href="https://howmakersbuild.com/tasks/hosting"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/hosting-dark.svg"><img alt="Hosting: Vercel 57%, Amazon Web Services 13%, Cloudflare 11%, Netlify 8%, Google Cloud Platform 5%, DigitalOcean 4%" src="charts/hosting-light.svg" width="800"></picture></a>
 
@@ -642,7 +715,7 @@ Get your app onto the internet with a URL, HTTPS and deploys from git. What 3,50
 | Tool | Used by | Best for | More |
 |---|---|---|---|
 | [Vercel](https://howmakersbuild.com/tools/vercel) | 2,007 (57%) | Next.js apps — zero-config deploys and preview URLs. | [vs Netlify](https://howmakersbuild.com/compare/netlify-vs-vercel) · [pricing](https://howmakersbuild.com/tools/vercel/pricing) |
-| [Amazon Web Services](https://howmakersbuild.com/tools/aws) | 450 (13%) | The widest catalog of building blocks — Lambda, containers, managed databases, queues — to assemble your own infrastructure. | [vs Microsoft Azure](https://howmakersbuild.com/compare/aws-vs-microsoft-azure) · [pricing](https://howmakersbuild.com/tools/aws/pricing) |
+| [Amazon Web Services](https://howmakersbuild.com/tools/aws) | 452 (13%) | The widest catalog of building blocks — Lambda, containers, managed databases, queues — to assemble your own infrastructure. | [vs Microsoft Azure](https://howmakersbuild.com/compare/aws-vs-microsoft-azure) · [pricing](https://howmakersbuild.com/tools/aws/pricing) |
 | [Cloudflare](https://howmakersbuild.com/tools/cloudflare) | 374 (11%) | Cheap global hosting with Workers, plus database (D1) and storage (R2) on the same platform. | [vs Vercel](https://howmakersbuild.com/compare/cloudflare-vs-vercel) · [pricing](https://howmakersbuild.com/tools/cloudflare/pricing) |
 | [Netlify](https://howmakersbuild.com/tools/netlify) | 265 (8%) | Static sites and JAMstack apps on any framework. | [vs Vercel](https://howmakersbuild.com/compare/netlify-vs-vercel) · [pricing](https://howmakersbuild.com/tools/netlify/pricing) |
 | [Google Cloud Platform](https://howmakersbuild.com/tools/google-cloud) | 176 (5%) | Containers on Cloud Run that scale to zero, next to BigQuery, Firebase and Google's AI services. | [vs Amazon Web Services](https://howmakersbuild.com/compare/aws-vs-google-cloud) |
@@ -667,7 +740,7 @@ Pick the full-stack framework your web app lives in — routing, data loading, s
 | [Next.js](https://howmakersbuild.com/tools/nextjs) · open source | 1,730 (76%) | React apps that want server rendering, API routes and the largest set of examples, templates and SaaS starters. | [vs Astro](https://howmakersbuild.com/compare/astro-vs-nextjs) |
 | [Astro](https://howmakersbuild.com/tools/astro) · open source | 270 (12%) | Marketing sites, docs and blogs that ship minimal JavaScript, with interactive islands from any UI library. | [vs Next.js](https://howmakersbuild.com/compare/astro-vs-nextjs) |
 | [React](https://howmakersbuild.com/tools/react) · open source | 233 (10%) | Single-page apps built from React components, with the largest ecosystem of component libraries, examples and AI-generated code. | [vs Angular](https://howmakersbuild.com/compare/angular-vs-react) |
-| [Vue.js](https://howmakersbuild.com/tools/vue) · open source | 66 (3%) | Single-page apps with approachable single-file components and official router and state libraries from the same team. | [vs React](https://howmakersbuild.com/compare/react-vs-vue) |
+| [Vue.js](https://howmakersbuild.com/tools/vue) · open source | 67 (3%) | Single-page apps with approachable single-file components and official router and state libraries from the same team. | [vs React](https://howmakersbuild.com/compare/react-vs-vue) |
 | [Svelte](https://howmakersbuild.com/tools/svelte) · open source | 41 (2%) | Interactive apps and widgets with little boilerplate, compiled to small client bundles. | [vs SolidJS](https://howmakersbuild.com/compare/solid-vs-svelte) |
 | [Nuxt](https://howmakersbuild.com/tools/nuxt) · open source | 28 (1%) | Vue apps, with a large module ecosystem for auth, content, images and SEO. | [vs Next.js](https://howmakersbuild.com/compare/nextjs-vs-nuxt) |
 | [Angular](https://howmakersbuild.com/tools/angular) · open source | 23 (1%) | Larger TypeScript apps that want routing, forms, an HTTP client, dependency injection and a CLI from one framework, with signals for reactivity. | [vs React](https://howmakersbuild.com/compare/angular-vs-react) |
@@ -679,18 +752,18 @@ Pick the full-stack framework your web app lives in — routing, data loading, s
 
 ### Backend Framework
 
-Pick the framework that serves your API or server-rendered app, when your frontend framework's own server routes aren't enough. What 192 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/backend-framework).
+Pick the framework that serves your API or server-rendered app, when your frontend framework's own server routes aren't enough. What 193 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/backend-framework).
 
-<a href="https://howmakersbuild.com/tasks/backend-framework"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/backend-framework-dark.svg"><img alt="Backend Framework: Laravel 33%, FastAPI 16%, Django 16%, Ruby on Rails 14%, NestJS 11%, Hono 3%" src="charts/backend-framework-light.svg" width="800"></picture></a>
+<a href="https://howmakersbuild.com/tasks/backend-framework"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/backend-framework-dark.svg"><img alt="Backend Framework: Laravel 33%, Django 16%, FastAPI 16%, Ruby on Rails 13%, NestJS 11%, Hono 3%" src="charts/backend-framework-light.svg" width="800"></picture></a>
 
 <details><summary>All 10 with what each is best for, comparisons and pricing</summary>
 
 | Tool | Used by | Best for | More |
 |---|---|---|---|
 | [Laravel](https://howmakersbuild.com/tools/laravel) · open source | 64 (33%) | PHP apps with ORM, queues, auth scaffolding and an optional paid ecosystem for hosting and admin panels. | [vs AdonisJS](https://howmakersbuild.com/compare/adonisjs-vs-laravel) |
+| [Django](https://howmakersbuild.com/tools/django) · open source | 31 (16%) | Python apps that want an ORM, migrations, auth and an admin panel on day one. | [vs Flask](https://howmakersbuild.com/compare/django-vs-flask) |
 | [FastAPI](https://howmakersbuild.com/tools/fastapi) · open source | 30 (16%) | Python APIs with request validation and interactive docs generated from type hints. | [vs Flask](https://howmakersbuild.com/compare/fastapi-vs-flask) |
-| [Django](https://howmakersbuild.com/tools/django) · open source | 30 (16%) | Python apps that want an ORM, migrations, auth and an admin panel on day one. | [vs Flask](https://howmakersbuild.com/compare/django-vs-flask) |
-| [Ruby on Rails](https://howmakersbuild.com/tools/rails) · open source | 26 (14%) | Full-stack Ruby apps where one developer builds models, views, jobs and emails with strong conventions. | [vs Laravel](https://howmakersbuild.com/compare/laravel-vs-rails) |
+| [Ruby on Rails](https://howmakersbuild.com/tools/rails) · open source | 26 (13%) | Full-stack Ruby apps where one developer builds models, views, jobs and emails with strong conventions. | [vs Laravel](https://howmakersbuild.com/compare/laravel-vs-rails) |
 | [NestJS](https://howmakersbuild.com/tools/nestjs) · open source | 21 (11%) | Larger TypeScript backends organized into modules, with dependency injection and decorators. | [vs Hono](https://howmakersbuild.com/compare/hono-vs-nestjs) |
 | [Hono](https://howmakersbuild.com/tools/hono) · open source | 5 (3%) | Small TypeScript APIs that run on Node, Bun, Deno or edge platforms like Cloudflare Workers. | [vs Express](https://howmakersbuild.com/compare/express-vs-hono) |
 | [Wasp](https://howmakersbuild.com/tools/wasp) · open source | 5 (3%) | Full-stack React and Node.js apps where a config file declares auth, routes, jobs and emails and Wasp generates the wiring. |  |
@@ -757,7 +830,7 @@ Run work outside the request — sending batches, processing uploads, calling sl
 
 ### Transactional Email
 
-Send the emails your app triggers — sign-up confirmations, password resets, receipts — and make sure they arrive. What 2,460 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/transactional-email).
+Send the emails your app triggers — sign-up confirmations, password resets, receipts — and make sure they arrive. What 2,461 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/transactional-email).
 
 <a href="https://howmakersbuild.com/tasks/transactional-email"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/transactional-email-dark.svg"><img alt="Transactional Email: SendGrid 46%, Resend 44%, Postmark 27%, Mailgun 2%, Amazon SES &lt;1%, Plunk &lt;1%" src="charts/transactional-email-light.svg" width="800"></picture></a>
 
@@ -765,9 +838,9 @@ Send the emails your app triggers — sign-up confirmations, password resets, re
 
 | Tool | Used by | Best for | More |
 |---|---|---|---|
-| [SendGrid](https://howmakersbuild.com/tools/sendgrid) | 1,142 (46%) | One vendor for both jobs at large scale. | [vs Amazon SES](https://howmakersbuild.com/compare/amazon-ses-vs-sendgrid) · [pricing](https://howmakersbuild.com/tools/sendgrid/pricing) |
-| [Resend](https://howmakersbuild.com/tools/resend) | 1,081 (44%) | A modern developer API with email templates written as React components. | [vs Postmark](https://howmakersbuild.com/compare/postmark-vs-resend) · [pricing](https://howmakersbuild.com/tools/resend/pricing) |
-| [Postmark](https://howmakersbuild.com/tools/postmark) | 652 (27%) | Deliverability when the mail has to arrive within seconds. | [vs Resend](https://howmakersbuild.com/compare/postmark-vs-resend) · [pricing](https://howmakersbuild.com/tools/postmark/pricing) |
+| [SendGrid](https://howmakersbuild.com/tools/sendgrid) | 1,143 (46%) | One vendor for both jobs at large scale. | [vs Amazon SES](https://howmakersbuild.com/compare/amazon-ses-vs-sendgrid) · [pricing](https://howmakersbuild.com/tools/sendgrid/pricing) |
+| [Resend](https://howmakersbuild.com/tools/resend) | 1,080 (44%) | A modern developer API with email templates written as React components. | [vs Postmark](https://howmakersbuild.com/compare/postmark-vs-resend) · [pricing](https://howmakersbuild.com/tools/resend/pricing) |
+| [Postmark](https://howmakersbuild.com/tools/postmark) | 653 (27%) | Deliverability when the mail has to arrive within seconds. | [vs Resend](https://howmakersbuild.com/compare/postmark-vs-resend) · [pricing](https://howmakersbuild.com/tools/postmark/pricing) |
 | [Mailgun](https://howmakersbuild.com/tools/mailgun) | 46 (2%) | High volume and inbound email parsing and routing. | [vs SendGrid](https://howmakersbuild.com/compare/mailgun-vs-sendgrid) · [pricing](https://howmakersbuild.com/tools/mailgun/pricing) |
 | [Amazon SES](https://howmakersbuild.com/tools/amazon-ses) | 5 (<1%) | Sending at high volume, where cost per email matters more than tooling. | [vs SendGrid](https://howmakersbuild.com/compare/amazon-ses-vs-sendgrid) · [pricing](https://howmakersbuild.com/tools/amazon-ses/pricing) |
 | [Plunk](https://howmakersbuild.com/tools/plunk) · open source | 5 (<1%) | Transactional emails, event-triggered sequences and newsletters in one open-source tool, billed per email with no monthly fee. |  |
@@ -777,7 +850,7 @@ Send the emails your app triggers — sign-up confirmations, password resets, re
 
 ### Payments
 
-Charge customers — one-off or subscription — and stay on the right side of sales tax. What 1,198 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/payments).
+Charge customers — one-off or subscription — and stay on the right side of sales tax. What 1,200 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/payments).
 
 <a href="https://howmakersbuild.com/tasks/payments"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/payments-dark.svg"><img alt="Payments: Stripe 77%, PayPal 8%, Paddle 7%, Lemon Squeezy 7%, Polar 4%, Dodo Payments 3%" src="charts/payments-light.svg" width="800"></picture></a>
 
@@ -785,8 +858,8 @@ Charge customers — one-off or subscription — and stay on the right side of s
 
 | Tool | Used by | Best for | More |
 |---|---|---|---|
-| [Stripe](https://howmakersbuild.com/tools/stripe) | 927 (77%) | Full control over checkout and billing, lower fees than a merchant of record, and the widest integration ecosystem. | [vs Lemon Squeezy](https://howmakersbuild.com/compare/lemon-squeezy-vs-stripe) · [pricing](https://howmakersbuild.com/tools/stripe/pricing) |
-| [PayPal](https://howmakersbuild.com/tools/paypal) | 94 (8%) | Adding PayPal and Venmo as a checkout option for buyers who won't type in a card. | [vs Stripe](https://howmakersbuild.com/compare/paypal-vs-stripe) · [pricing](https://howmakersbuild.com/tools/paypal/pricing) |
+| [Stripe](https://howmakersbuild.com/tools/stripe) | 928 (77%) | Full control over checkout and billing, lower fees than a merchant of record, and the widest integration ecosystem. | [vs Lemon Squeezy](https://howmakersbuild.com/compare/lemon-squeezy-vs-stripe) · [pricing](https://howmakersbuild.com/tools/stripe/pricing) |
+| [PayPal](https://howmakersbuild.com/tools/paypal) | 95 (8%) | Adding PayPal and Venmo as a checkout option for buyers who won't type in a card. | [vs Stripe](https://howmakersbuild.com/compare/paypal-vs-stripe) · [pricing](https://howmakersbuild.com/tools/paypal/pricing) |
 | [Paddle](https://howmakersbuild.com/tools/paddle) | 86 (7%) | Established SaaS businesses that want a mature MoR. | [vs Lemon Squeezy](https://howmakersbuild.com/compare/lemon-squeezy-vs-paddle) · [pricing](https://howmakersbuild.com/tools/paddle/pricing) |
 | [Lemon Squeezy](https://howmakersbuild.com/tools/lemon-squeezy) | 83 (7%) | Selling software and digital downloads with minimal setup. | [vs Stripe](https://howmakersbuild.com/compare/lemon-squeezy-vs-stripe) · [pricing](https://howmakersbuild.com/tools/lemon-squeezy/pricing) |
 | [Polar](https://howmakersbuild.com/tools/polar) · open source | 50 (4%) | Developers selling SaaS, subscriptions, usage-based plans or license keys. | [vs Dodo Payments](https://howmakersbuild.com/compare/dodo-payments-vs-polar) · [pricing](https://howmakersbuild.com/tools/polar/pricing) |
@@ -890,19 +963,19 @@ Knowing who uses the product and bringing more people to it — analytics, email
 
 ### Web Analytics
 
-Count how many people visit your site, which pages they read, and where they came from — search, social posts, launch sites or newsletters. What 900 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/web-analytics).
+Count how many people visit your site, which pages they read, and where they came from — search, social posts, launch sites or newsletters. What 912 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/web-analytics).
 
-<a href="https://howmakersbuild.com/tasks/web-analytics"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/web-analytics-dark.svg"><img alt="Web Analytics: Google Analytics 46%, Plausible Analytics 26%, Cloudflare Web Analytics 15%, Umami 9%, Fathom Analytics 5%, Simple Analytics 3%" src="charts/web-analytics-light.svg" width="800"></picture></a>
+<a href="https://howmakersbuild.com/tasks/web-analytics"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/web-analytics-dark.svg"><img alt="Web Analytics: Google Analytics 46%, Plausible Analytics 25%, Cloudflare Web Analytics 15%, Umami 9%, Fathom Analytics 5%, Simple Analytics 3%" src="charts/web-analytics-light.svg" width="800"></picture></a>
 
 <details><summary>All 6 with what each is best for, comparisons and pricing</summary>
 
 | Tool | Used by | Best for | More |
 |---|---|---|---|
-| [Google Analytics](https://howmakersbuild.com/tools/google-analytics) | 412 (46%) | Free, deep campaign and audience reporting tied to Google Ads and Search Console. | [pricing](https://howmakersbuild.com/tools/google-analytics/pricing) |
-| [Plausible Analytics](https://howmakersbuild.com/tools/plausible) · open source | 230 (26%) | One page of traffic numbers with no cookie banner, with funnels and revenue goals on higher plans. | [pricing](https://howmakersbuild.com/tools/plausible/pricing) |
+| [Google Analytics](https://howmakersbuild.com/tools/google-analytics) | 423 (46%) | Free, deep campaign and audience reporting tied to Google Ads and Search Console. | [pricing](https://howmakersbuild.com/tools/google-analytics/pricing) |
+| [Plausible Analytics](https://howmakersbuild.com/tools/plausible) · open source | 230 (25%) | One page of traffic numbers with no cookie banner, with funnels and revenue goals on higher plans. | [pricing](https://howmakersbuild.com/tools/plausible/pricing) |
 | [Cloudflare Web Analytics](https://howmakersbuild.com/tools/cloudflare-web-analytics) | 139 (15%) | Free cookie-free visit counts for sites on any host, set up in minutes. | [pricing](https://howmakersbuild.com/tools/cloudflare-web-analytics/pricing) |
 | [Umami](https://howmakersbuild.com/tools/umami) · open source | 78 (9%) | Open-source website analytics you can self-host free, with a cloud free plan up to 100,000 events a month. | [pricing](https://howmakersbuild.com/tools/umami/pricing) |
-| [Fathom Analytics](https://howmakersbuild.com/tools/fathom) | 48 (5%) | A cookie-free dashboard with up to 50 sites on every plan. | [pricing](https://howmakersbuild.com/tools/fathom/pricing) |
+| [Fathom Analytics](https://howmakersbuild.com/tools/fathom) | 49 (5%) | A cookie-free dashboard with up to 50 sites on every plan. | [pricing](https://howmakersbuild.com/tools/fathom/pricing) |
 | [Simple Analytics](https://howmakersbuild.com/tools/simple-analytics) | 31 (3%) | A free cookie-free plan with unlimited pageviews, keeping only the last 30 days of data. | [pricing](https://howmakersbuild.com/tools/simple-analytics/pricing) |
 
 </details>
@@ -959,15 +1032,18 @@ Send the right email at the right point in a user's journey — onboarding, nudg
 
 ### AI Search Visibility (GEO)
 
-See whether ChatGPT, Perplexity, Gemini and Google's AI answers mention and cite your product when people ask about your category, and what to change so they do. What 1 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/geo).
+See whether ChatGPT, Perplexity, Gemini and Google's AI answers mention and cite your product when people ask about your category, and what to change so they do. What 32 makers' products chose — [decide by situation](https://howmakersbuild.com/tasks/geo).
 
-<a href="https://howmakersbuild.com/tasks/geo"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/geo-dark.svg"><img alt="AI Search Visibility (GEO): AthenaHQ 100%" src="charts/geo-light.svg" width="800"></picture></a>
+<a href="https://howmakersbuild.com/tasks/geo"><picture><source media="(prefers-color-scheme: dark)" srcset="charts/geo-dark.svg"><img alt="AI Search Visibility (GEO): Profound 47%, Scrunch 28%, AthenaHQ 22%, Peec AI 3%" src="charts/geo-light.svg" width="800"></picture></a>
 
-<details><summary>All 1 with what each is best for, comparisons and pricing</summary>
+<details><summary>All 4 with what each is best for, comparisons and pricing</summary>
 
 | Tool | Used by | Best for | More |
 |---|---|---|---|
-| [AthenaHQ](https://howmakersbuild.com/tools/athenahq) | 1 (100%) | Tracking across 11 AI models with citation-source analysis, content recommendations and an agent that drafts changes. |  |
+| [Profound](https://howmakersbuild.com/tools/profound) | 15 (47%) | An enterprise AI marketing platform with prompt-volume data, answer-engine tracking and agents that create content. |  |
+| [Scrunch](https://howmakersbuild.com/tools/scrunch) | 9 (28%) | Monitoring AI mentions and citations plus analysing AI crawler traffic and serving AI agents an optimized version of your pages. |  |
+| [AthenaHQ](https://howmakersbuild.com/tools/athenahq) | 7 (22%) | Tracking across 11 AI models with citation-source analysis, content recommendations and an agent that drafts changes. |  |
+| [Peec AI](https://howmakersbuild.com/tools/peec-ai) | 1 (3%) | Visibility, position and sentiment tracking across ChatGPT, Perplexity, Gemini and other models, benchmarked against competitors, with unlimited users. |  |
 
 </details>
 
